@@ -207,6 +207,64 @@
     height:280px;
   }
 
+  /* ---------- Comentários ---------- */
+  .comment-box{
+    background:#fff;
+    border:1px solid var(--line);
+    padding:22px 24px;
+  }
+  .comment-hint{
+    font-size:13.5px;
+    color:var(--ink-soft);
+    margin:0 0 16px;
+    max-width:640px;
+    line-height:1.5;
+  }
+  #form-comentario label{
+    display:flex;
+    flex-direction:column;
+    gap:6px;
+    font-size:13px;
+    color:var(--ink-soft);
+    margin-bottom:14px;
+  }
+  #form-comentario .field-row{
+    display:grid;
+    grid-template-columns:2fr 1fr;
+    gap:16px;
+    align-items:end;
+  }
+  #form-comentario input, #form-comentario select, #form-comentario textarea{
+    font-family:inherit;
+    font-size:14px;
+    color:var(--ink);
+    padding:9px 11px;
+    border:1px solid var(--line);
+    background:var(--paper);
+  }
+  #form-comentario textarea{resize:vertical;}
+  #btn-comentar{
+    background:var(--navy-900);
+    color:#fff;
+    border:none;
+    padding:10px 20px;
+    font-size:13.5px;
+    font-family:inherit;
+    cursor:pointer;
+    height:fit-content;
+  }
+  #btn-comentar:hover{background:var(--navy-700);}
+  #btn-comentar:disabled{opacity:.5;cursor:default;}
+  #comentario-status{
+    font-size:13px;
+    margin-top:10px;
+  }
+  #comentario-status.ok{color:var(--green);}
+  #comentario-status.erro{color:var(--red);}
+  @media (max-width:640px){
+    #form-comentario .field-row{grid-template-columns:1fr;}
+  }
+
   footer{
     max-width:1180px;
     margin:60px auto 40px;
@@ -311,14 +369,94 @@
     </div>
   </section>
 
+  <section id="sec-comentarios">
+    <div class="section-head">
+      <h2>Comentários — Data Entry</h2>
+      <span class="note">encontrou um dado errado ou uma pendência estranha? avise aqui</span>
+    </div>
+    <div class="comment-box">
+      <p class="comment-hint">
+        Achou um paciente, estudo ou data que não bate com o que você vê no Tasy/Polo?
+        Conta aqui — isso vai direto pra uma planilha que o Rodrigo revisa pra corrigir a conciliação.
+      </p>
+      <form id="form-comentario">
+        <div class="field-row">
+          <label>Referência (paciente, estudo ou o que for)
+            <input type="text" id="c-referencia" placeholder="ex.: Maria da Silva — EMBARK">
+          </label>
+          <label>Tipo
+            <select id="c-tipo">
+              <option value="Dado incorreto">Dado incorreto</option>
+              <option value="Pendência que já foi resolvida">Pendência que já foi resolvida</option>
+              <option value="Dúvida">Dúvida</option>
+              <option value="Outro">Outro</option>
+            </select>
+          </label>
+        </div>
+        <label>Comentário
+          <textarea id="c-comentario" rows="3" placeholder="Descreva o que encontrou…" required></textarea>
+        </label>
+        <div class="field-row">
+          <label>Seu nome
+            <input type="text" id="c-autor" placeholder="quem está reportando" required>
+          </label>
+          <button type="submit" id="btn-comentar">Enviar comentário</button>
+        </div>
+        <div id="comentario-status"></div>
+      </form>
+    </div>
+  </section>
+
 </main>
 
 <footer>
+
   Dados publicados diretamente pela conciliação diária Tasy × Polo — sem etapa manual de planilha.
   <span id="footer-updated"></span>
 </footer>
 
 <script>
+// URL do Web App do Apps Script (ReceberComentarios.gs) — troque depois de implantar
+const COMENTARIOS_URL = 'COLE_AQUI_A_URL_DO_WEB_APP';
+
+document.getElementById('form-comentario').addEventListener('submit', async (e) => {
+  e.preventDefault();
+  const btn = document.getElementById('btn-comentar');
+  const status = document.getElementById('comentario-status');
+  const payload = {
+    referencia: document.getElementById('c-referencia').value,
+    tipo: document.getElementById('c-tipo').value,
+    comentario: document.getElementById('c-comentario').value,
+    autor: document.getElementById('c-autor').value,
+  };
+  if (!payload.comentario || !payload.autor) return;
+
+  if (COMENTARIOS_URL.includes('COLE_AQUI')) {
+    status.className = 'erro';
+    status.textContent = 'Formulário ainda não configurado — avise o Rodrigo.';
+    return;
+  }
+
+  btn.disabled = true;
+  status.className = '';
+  status.textContent = 'Enviando…';
+  try {
+    await fetch(COMENTARIOS_URL, {
+      method: 'POST',
+      mode: 'no-cors', // Apps Script Web App não retorna CORS; seguimos "às cegas"
+      body: JSON.stringify(payload),
+    });
+    status.className = 'ok';
+    status.textContent = 'Comentário enviado — obrigado!';
+    e.target.reset();
+  } catch (err) {
+    status.className = 'erro';
+    status.textContent = 'Não foi possível enviar. Tenta de novo em instantes.';
+  } finally {
+    btn.disabled = false;
+  }
+});
+
 function setStatus(state, text) {
   const pill = document.getElementById('status-pill');
   pill.className = state;
