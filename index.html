@@ -486,8 +486,9 @@ function esc(v) {
 }
 
 function renderKpis(d) {
+  const horaTxt = d.gerado_em_hora ? ` às ${d.gerado_em_hora}` : '';
   document.getElementById('meta-periodo').textContent =
-    `Gerado em ${d.gerado_em}  •  período de visitas: ${d.periodo}`;
+    `Gerado em ${d.gerado_em}${horaTxt}  •  período de visitas: ${d.periodo}`;
   const vals = document.querySelectorAll('#kpi-row .value');
   vals[0].textContent = d.kpis.conciliados;
   vals[1].textContent = d.kpis.so_tasy;
@@ -607,7 +608,8 @@ async function loadAll() {
     renderTendencia(d);
     renderPendencias(d);
 
-    setStatus('', 'atualizado ' + d.gerado_em);
+    const hora = d.gerado_em_hora ? ' às ' + d.gerado_em_hora : '';
+    setStatus('', 'atualizado ' + d.gerado_em + hora);
     document.getElementById('footer-updated').textContent =
       ' · última leitura: ' + new Date().toLocaleTimeString('pt-BR');
   } catch (err) {
