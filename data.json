@@ -1,10 +1,10 @@
 {
  "gerado_em": "03/09/2026",
- "gerado_em_hora": "07:18",
+ "gerado_em_hora": "07:41",
  "periodo": "06/01/2026 a 02/09/2026",
  "kpis": {
   "conciliados": 8334,
-  "so_tasy": 25,
+  "so_tasy": 22,
   "so_polo": 8,
   "taxa": 99.7,
   "inconsistencias": 152,
@@ -16,7 +16,7 @@
  "faixas": {
   "24h": 0,
   "48h": 9,
-  "mais48": 24,
+  "mais48": 21,
   "semdata": 0
  },
  "priorizacao": [
@@ -73,28 +73,6 @@
    "estudo": "PACIFIC",
    "procedimento": "Consulta Médica",
    "visita": "Triagem",
-   "tipo": "Realizado no Tasy, não registrado no Polo Trial"
-  },
-  {
-   "faixa": "mais48",
-   "idade_h": 2496,
-   "data": "10/04/2026",
-   "paciente": "Cicero Batista de Oliveira",
-   "id_part": "123",
-   "estudo": "FLA-01-IB",
-   "procedimento": "Aplicação TCLE",
-   "visita": "Triagem/Randomização (Dia 1)",
-   "tipo": "Realizado no Tasy, não registrado no Polo Trial"
-  },
-  {
-   "faixa": "mais48",
-   "idade_h": 2472,
-   "data": "11/04/2026",
-   "paciente": "Raimunda Moura de Oliveira Teste",
-   "id_part": "                         ",
-   "estudo": "FLA-01-IB",
-   "procedimento": "Aplicação TCLE",
-   "visita": "Triagem/Randomização (Dia 1)",
    "tipo": "Realizado no Tasy, não registrado no Polo Trial"
   },
   {
@@ -173,17 +151,6 @@
    "procedimento": "Consulta Médica",
    "visita": "TRIAGEM",
    "tipo": "Registrado no Polo Trial, sem evidência no Tasy"
-  },
-  {
-   "faixa": "mais48",
-   "idade_h": 696,
-   "data": "24/07/2026",
-   "paciente": "Nina Teste",
-   "id_part": "                         ",
-   "estudo": "PFIZER (C5091017)",
-   "procedimento": "Consulta Médica",
-   "visita": "Triagem",
-   "tipo": "Realizado no Tasy, não registrado no Polo Trial"
   },
   {
    "faixa": "mais48",
@@ -414,24 +381,6 @@
     "avaliador": "Kedma Valnice Freire Oliveira"
    },
    {
-    "data": "10/04/2026",
-    "paciente": "Cicero Batista de Oliveira",
-    "id_part": "123",
-    "estudo": "FLA-01-IB",
-    "visita": "Triagem/Randomização (Dia 1)",
-    "procedimento": "Aplicação TCLE",
-    "avaliador": "Bruna Sarubbi Scaggion Soares"
-   },
-   {
-    "data": "11/04/2026",
-    "paciente": "Raimunda Moura de Oliveira Teste",
-    "id_part": "                         ",
-    "estudo": "FLA-01-IB",
-    "visita": "Triagem/Randomização (Dia 1)",
-    "procedimento": "Aplicação TCLE",
-    "avaliador": "Indira Neves Maia de Oliveira"
-   },
-   {
     "data": "25/05/2026",
     "paciente": "Olival Neri Sobrinho",
     "id_part": "FLA01NAT01-406",
@@ -448,15 +397,6 @@
     "visita": "Pré-Triagem ",
     "procedimento": "Consulta Médica",
     "avaliador": "Maria Sanali Moura de Oliveira Paiva"
-   },
-   {
-    "data": "24/07/2026",
-    "paciente": "Nina Teste",
-    "id_part": "                         ",
-    "estudo": "PFIZER (C5091017)",
-    "visita": "Triagem",
-    "procedimento": "Consulta Médica",
-    "avaliador": "Rodrigo Diogenes Oliveira"
    },
    {
     "data": "25/08/2026",
@@ -2832,8 +2772,8 @@
  "historico": [
   {
    "data": "2026-09-03",
-   "abertas": 33,
-   "taxa": 99.7
+   "abertas": 30,
+   "taxa": 99.74
   }
  ]
 }
