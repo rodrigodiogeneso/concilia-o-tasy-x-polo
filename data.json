@@ -1,22 +1,22 @@
 {
  "gerado_em": "03/09/2026",
- "gerado_em_hora": "07:41",
+ "gerado_em_hora": "18:15",
  "periodo": "06/01/2026 a 02/09/2026",
  "kpis": {
-  "conciliados": 8334,
-  "so_tasy": 22,
-  "so_polo": 8,
-  "taxa": 99.7,
+  "conciliados": 8335,
+  "so_tasy": 20,
+  "so_polo": 7,
+  "taxa": 99.8,
   "inconsistencias": 152,
   "atrasados": 10,
   "aguardando": 16,
-  "executor_divergente": 19,
-  "executor_total": 8334
+  "executor_divergente": 11,
+  "executor_total": 8335
  },
  "faixas": {
   "24h": 0,
   "48h": 9,
-  "mais48": 21,
+  "mais48": 18,
   "semdata": 0
  },
  "priorizacao": [
@@ -33,17 +33,6 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 2712,
-   "data": "30/03/2026",
-   "paciente": "Isabel Costa da Silva",
-   "id_part": "S1001679",
-   "estudo": "PACIFIC",
-   "procedimento": "Consulta Médica",
-   "visita": "Triagem",
-   "tipo": "Realizado no Tasy, não registrado no Polo Trial"
-  },
-  {
-   "faixa": "mais48",
    "idade_h": 2664,
    "data": "01/04/2026",
    "paciente": "Jose Bezerra de Medeiros Neto",
@@ -63,17 +52,6 @@
    "procedimento": "Aplicação TCLE",
    "visita": "TRIAGEM",
    "tipo": "Registrado no Polo Trial, sem evidência no Tasy"
-  },
-  {
-   "faixa": "mais48",
-   "idade_h": 2592,
-   "data": "06/04/2026",
-   "paciente": "Antonio Batista Filho",
-   "id_part": "S1001691",
-   "estudo": "PACIFIC",
-   "procedimento": "Consulta Médica",
-   "visita": "Triagem",
-   "tipo": "Realizado no Tasy, não registrado no Polo Trial"
   },
   {
    "faixa": "mais48",
@@ -129,17 +107,6 @@
    "procedimento": "Consulta Médica",
    "visita": "Pré-Triagem ",
    "tipo": "Realizado no Tasy, não registrado no Polo Trial"
-  },
-  {
-   "faixa": "mais48",
-   "idade_h": 840,
-   "data": "16/07/2026",
-   "paciente": "Sebastiao Randir Canuto",
-   "id_part": "E0728102",
-   "estudo": "D7960C000015 (AZD0780) - AZURE",
-   "procedimento": "Aplicação TCLE",
-   "visita": "TRIAGEM",
-   "tipo": "Registrado no Polo Trial, sem evidência no Tasy"
   },
   {
    "faixa": "mais48",
@@ -363,24 +330,6 @@
     "avaliador": "Manoel Gilmar Gurgel Junior"
    },
    {
-    "data": "30/03/2026",
-    "paciente": "Isabel Costa da Silva",
-    "id_part": "S1001679",
-    "estudo": "PACIFIC",
-    "visita": "Triagem",
-    "procedimento": "Consulta Médica",
-    "avaliador": "Juliana Marinho de Oliveira Dantas"
-   },
-   {
-    "data": "06/04/2026",
-    "paciente": "Antonio Batista Filho",
-    "id_part": "S1001691",
-    "estudo": "PACIFIC",
-    "visita": "Triagem",
-    "procedimento": "Consulta Médica",
-    "avaliador": "Kedma Valnice Freire Oliveira"
-   },
-   {
     "data": "25/05/2026",
     "paciente": "Olival Neri Sobrinho",
     "id_part": "FLA01NAT01-406",
@@ -599,15 +548,6 @@
     "visita": "PRÉ-TRIAGEM (601)",
     "procedimento": "Aplicação TCLE",
     "executor": "Larissa Jales de Mota Paiva"
-   },
-   {
-    "data": "16/07/2026",
-    "paciente": "Sebastiao Randir Canuto",
-    "id_part": "E0728102",
-    "estudo": "D7960C000015 (AZD0780) - AZURE",
-    "visita": "TRIAGEM",
-    "procedimento": "Aplicação TCLE",
-    "executor": "Indira Neves Maia de Oliveira"
    },
    {
     "data": "22/07/2026",
@@ -2638,26 +2578,6 @@
     "executor": "Bruna Sarubbi Scaggion Soares"
    },
    {
-    "estudo": "FLA-01-IB",
-    "paciente": "Rita Pereira",
-    "id_part": "FLA01NAT01-736",
-    "procedimento": "Consulta Médica",
-    "visita": "Contato Telefônico de Segurança (Dia 8)",
-    "data": "14/08/2026",
-    "avaliador": "Geovanna Esther Passarini",
-    "executor": "Luana de Oliveira Bandeira"
-   },
-   {
-    "estudo": "FLA-01-IB",
-    "paciente": "Rita Pereira",
-    "id_part": "FLA01NAT01-736",
-    "procedimento": "Consulta Médica",
-    "visita": "Visita Não Programada",
-    "data": "14/08/2026",
-    "avaliador": "Luana de Oliveira Bandeira",
-    "executor": "Geovanna Esther Passarini"
-   },
-   {
     "estudo": "EVOLVE-MI",
     "paciente": "Jario Belo de Aguiar",
     "id_part": "3004-0037",
@@ -2666,66 +2586,6 @@
     "data": "15/07/2026",
     "avaliador": "Indira Neves Maia de Oliveira",
     "executor": "Artur Diógenes Pinheiro Paiva"
-   },
-   {
-    "estudo": "ZENITH",
-    "paciente": "Fabiano Cassimiro de Morais",
-    "id_part": "BR0042-0005",
-    "procedimento": "Aplicação TCLE",
-    "visita": "Triagem",
-    "data": "16/06/2026",
-    "avaliador": "Bruna Sarubbi Scaggion Soares",
-    "executor": "Vanessa Albuquerque Pinto"
-   },
-   {
-    "estudo": "ZENITH",
-    "paciente": "Irisnete da Silva",
-    "id_part": "BR0042-0006",
-    "procedimento": "Aplicação TCLE",
-    "visita": "Triagem",
-    "data": "16/06/2026",
-    "avaliador": "Indira Neves Maia de Oliveira",
-    "executor": "Juliana Marinho de Oliveira Dantas"
-   },
-   {
-    "estudo": "ZENITH",
-    "paciente": "Fabiano Cassimiro de Morais",
-    "id_part": "                         ",
-    "procedimento": "Aplicação TCLE",
-    "visita": "Pré-Triagem ",
-    "data": "16/06/2026",
-    "avaliador": "Vanessa Albuquerque Pinto",
-    "executor": "Bruna Sarubbi Scaggion Soares"
-   },
-   {
-    "estudo": "ZENITH",
-    "paciente": "Irisnete da Silva",
-    "id_part": "                         ",
-    "procedimento": "Aplicação TCLE",
-    "visita": "Pré-Triagem ",
-    "data": "16/06/2026",
-    "avaliador": "Juliana Marinho de Oliveira Dantas",
-    "executor": "Indira Neves Maia de Oliveira"
-   },
-   {
-    "estudo": "ZENITH",
-    "paciente": "Azenildes Amorim Araujo",
-    "id_part": "BR0042-0011",
-    "procedimento": "Aplicação TCLE",
-    "visita": "Triagem",
-    "data": "17/06/2026",
-    "avaliador": "Bruna Sarubbi Scaggion Soares",
-    "executor": "Indira Neves Maia de Oliveira"
-   },
-   {
-    "estudo": "ZENITH",
-    "paciente": "Azenildes Amorim Araujo",
-    "id_part": "                         ",
-    "procedimento": "Aplicação TCLE",
-    "visita": "Pré-Triagem ",
-    "data": "17/06/2026",
-    "avaliador": "Indira Neves Maia de Oliveira",
-    "executor": "Bruna Sarubbi Scaggion Soares"
    },
    {
     "estudo": "FLA-01-IB",
@@ -2772,8 +2632,8 @@
  "historico": [
   {
    "data": "2026-09-03",
-   "abertas": 30,
-   "taxa": 99.74
+   "abertas": 27,
+   "taxa": 99.76
   }
  ]
 }
