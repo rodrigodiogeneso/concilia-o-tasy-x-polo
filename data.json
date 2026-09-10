@@ -1,12 +1,12 @@
 {
  "gerado_em": "10/09/2026",
- "gerado_em_hora": "07:35",
+ "gerado_em_hora": "08:19",
  "periodo": "06/01/2026 a 09/09/2026",
  "kpis": {
   "conciliados": 8574,
-  "so_tasy": 56,
+  "so_tasy": 31,
   "so_polo": 8,
-  "taxa": 99.4,
+  "taxa": 99.6,
   "inconsistencias": 176,
   "atrasados": 12,
   "aguardando": 23,
@@ -15,7 +15,7 @@
  },
  "faixas": {
   "24h": 0,
-  "48h": 32,
+  "48h": 7,
   "mais48": 32,
   "semdata": 0
  },
@@ -409,281 +409,6 @@
    "faixa": "48h",
    "idade_h": 48,
    "data": "08/09/2026",
-   "paciente": "Francisco das Chagas Gomes",
-   "id_part": "24414023400",
-   "estudo": "OCEAN(a)",
-   "procedimento": "Aplicação TCLE",
-   "visita": "Não-programada",
-   "tipo": "Realizado no Tasy, não registrado no Polo Trial"
-  },
-  {
-   "faixa": "48h",
-   "idade_h": 48,
-   "data": "08/09/2026",
-   "paciente": "Joana Darc de Souza",
-   "id_part": "24414023339",
-   "estudo": "OCEAN(a)",
-   "procedimento": "Aplicação TCLE",
-   "visita": "Semana 156",
-   "tipo": "Realizado no Tasy, não registrado no Polo Trial"
-  },
-  {
-   "faixa": "48h",
-   "idade_h": 48,
-   "data": "08/09/2026",
-   "paciente": "Josenildo Batista Silva",
-   "id_part": "24414023410",
-   "estudo": "OCEAN(a)",
-   "procedimento": "Aplicação TCLE",
-   "visita": "Semana 156",
-   "tipo": "Realizado no Tasy, não registrado no Polo Trial"
-  },
-  {
-   "faixa": "48h",
-   "idade_h": 48,
-   "data": "08/09/2026",
-   "paciente": "Theogenes Costa da Silva",
-   "id_part": "24414023405",
-   "estudo": "OCEAN(a)",
-   "procedimento": "Aplicação TCLE",
-   "visita": "Semana 156",
-   "tipo": "Realizado no Tasy, não registrado no Polo Trial"
-  },
-  {
-   "faixa": "48h",
-   "idade_h": 48,
-   "data": "08/09/2026",
-   "paciente": "Aderbal Lopes da Costa",
-   "id_part": "24414023505",
-   "estudo": "OCEAN(a)",
-   "procedimento": "Aplicação TCLE",
-   "visita": "Semana 96",
-   "tipo": "Realizado no Tasy, não registrado no Polo Trial"
-  },
-  {
-   "faixa": "48h",
-   "idade_h": 48,
-   "data": "08/09/2026",
-   "paciente": "Francisco Freire da Silva",
-   "id_part": "24414023446",
-   "estudo": "OCEAN(a)",
-   "procedimento": "Aplicação TCLE",
-   "visita": "Semana 156",
-   "tipo": "Realizado no Tasy, não registrado no Polo Trial"
-  },
-  {
-   "faixa": "48h",
-   "idade_h": 48,
-   "data": "08/09/2026",
-   "paciente": "Avanir Varela",
-   "id_part": "24414023429",
-   "estudo": "OCEAN(a)",
-   "procedimento": "Aplicação TCLE",
-   "visita": "Semana 156",
-   "tipo": "Realizado no Tasy, não registrado no Polo Trial"
-  },
-  {
-   "faixa": "48h",
-   "idade_h": 48,
-   "data": "08/09/2026",
-   "paciente": "Rita Ferreira de Oliveira",
-   "id_part": "24414023376",
-   "estudo": "OCEAN(a)",
-   "procedimento": "Aplicação TCLE",
-   "visita": "Semana 156",
-   "tipo": "Realizado no Tasy, não registrado no Polo Trial"
-  },
-  {
-   "faixa": "48h",
-   "idade_h": 48,
-   "data": "08/09/2026",
-   "paciente": "Ismenia Ferreira Gomes",
-   "id_part": "24414023615",
-   "estudo": "OCEAN(a)",
-   "procedimento": "Aplicação TCLE",
-   "visita": "Semana 96",
-   "tipo": "Realizado no Tasy, não registrado no Polo Trial"
-  },
-  {
-   "faixa": "48h",
-   "idade_h": 48,
-   "data": "08/09/2026",
-   "paciente": "Maria Helena Dias de Oliveira Belo",
-   "id_part": "24414023547",
-   "estudo": "OCEAN(a)",
-   "procedimento": "Aplicação TCLE",
-   "visita": "Semana 144",
-   "tipo": "Realizado no Tasy, não registrado no Polo Trial"
-  },
-  {
-   "faixa": "48h",
-   "idade_h": 48,
-   "data": "08/09/2026",
-   "paciente": "Francisco da Paz dos Santos",
-   "id_part": "24414023371",
-   "estudo": "OCEAN(a)",
-   "procedimento": "Aplicação TCLE",
-   "visita": "EOS",
-   "tipo": "Realizado no Tasy, não registrado no Polo Trial"
-  },
-  {
-   "faixa": "48h",
-   "idade_h": 48,
-   "data": "08/09/2026",
-   "paciente": "Geny Soares de Moura",
-   "id_part": "24414023450",
-   "estudo": "OCEAN(a)",
-   "procedimento": "Aplicação TCLE",
-   "visita": "Semana 156",
-   "tipo": "Realizado no Tasy, não registrado no Polo Trial"
-  },
-  {
-   "faixa": "48h",
-   "idade_h": 48,
-   "data": "08/09/2026",
-   "paciente": "Adelmo Carlos de Oliveira Lima",
-   "id_part": "24414023318",
-   "estudo": "OCEAN(a)",
-   "procedimento": "Aplicação TCLE",
-   "visita": "Semana 168",
-   "tipo": "Realizado no Tasy, não registrado no Polo Trial"
-  },
-  {
-   "faixa": "48h",
-   "idade_h": 48,
-   "data": "08/09/2026",
-   "paciente": "Maria Risoleide Nepomuceno",
-   "id_part": "24414023618",
-   "estudo": "OCEAN(a)",
-   "procedimento": "Aplicação TCLE",
-   "visita": "Semana 144",
-   "tipo": "Realizado no Tasy, não registrado no Polo Trial"
-  },
-  {
-   "faixa": "48h",
-   "idade_h": 48,
-   "data": "08/09/2026",
-   "paciente": "Ricardo Italo Mendonca",
-   "id_part": "                         ",
-   "estudo": "OCEAN(a)",
-   "procedimento": "Aplicação TCLE",
-   "visita": "Não-programada",
-   "tipo": "Realizado no Tasy, não registrado no Polo Trial"
-  },
-  {
-   "faixa": "48h",
-   "idade_h": 48,
-   "data": "08/09/2026",
-   "paciente": "Leorivan Alves Cabral",
-   "id_part": "24414023518",
-   "estudo": "OCEAN(a)",
-   "procedimento": "Aplicação TCLE",
-   "visita": "Semana 144",
-   "tipo": "Realizado no Tasy, não registrado no Polo Trial"
-  },
-  {
-   "faixa": "48h",
-   "idade_h": 48,
-   "data": "08/09/2026",
-   "paciente": "Antonio Olavo de Souza",
-   "id_part": "24414023647",
-   "estudo": "OCEAN(a)",
-   "procedimento": "Aplicação TCLE",
-   "visita": "Semana 132",
-   "tipo": "Realizado no Tasy, não registrado no Polo Trial"
-  },
-  {
-   "faixa": "48h",
-   "idade_h": 48,
-   "data": "08/09/2026",
-   "paciente": "Afranio Medeiros da Costa",
-   "id_part": "24414023311",
-   "estudo": "OCEAN(a)",
-   "procedimento": "Aplicação TCLE",
-   "visita": "Semana 168",
-   "tipo": "Realizado no Tasy, não registrado no Polo Trial"
-  },
-  {
-   "faixa": "48h",
-   "idade_h": 48,
-   "data": "08/09/2026",
-   "paciente": "Elizabeth Alves dos Santos",
-   "id_part": "24414023342",
-   "estudo": "OCEAN(a)",
-   "procedimento": "Aplicação TCLE",
-   "visita": "Semana 156",
-   "tipo": "Realizado no Tasy, não registrado no Polo Trial"
-  },
-  {
-   "faixa": "48h",
-   "idade_h": 48,
-   "data": "08/09/2026",
-   "paciente": "Manoel Joaquim da Silva",
-   "id_part": "24414023359",
-   "estudo": "OCEAN(a)",
-   "procedimento": "Aplicação TCLE",
-   "visita": "Semana 156",
-   "tipo": "Realizado no Tasy, não registrado no Polo Trial"
-  },
-  {
-   "faixa": "48h",
-   "idade_h": 48,
-   "data": "08/09/2026",
-   "paciente": "Eunira Matias de Mendonca",
-   "id_part": "24414023368",
-   "estudo": "OCEAN(a)",
-   "procedimento": "Aplicação TCLE",
-   "visita": "Semana 156",
-   "tipo": "Realizado no Tasy, não registrado no Polo Trial"
-  },
-  {
-   "faixa": "48h",
-   "idade_h": 48,
-   "data": "08/09/2026",
-   "paciente": "Vitoria Maria de Almeida",
-   "id_part": "24414023540",
-   "estudo": "OCEAN(a)",
-   "procedimento": "Aplicação TCLE",
-   "visita": "Não-programada",
-   "tipo": "Realizado no Tasy, não registrado no Polo Trial"
-  },
-  {
-   "faixa": "48h",
-   "idade_h": 48,
-   "data": "08/09/2026",
-   "paciente": "Janilson Lima de Souza",
-   "id_part": "24414023373",
-   "estudo": "OCEAN(a)",
-   "procedimento": "Aplicação TCLE",
-   "visita": "Semana 156",
-   "tipo": "Realizado no Tasy, não registrado no Polo Trial"
-  },
-  {
-   "faixa": "48h",
-   "idade_h": 48,
-   "data": "08/09/2026",
-   "paciente": "Francisco Ferreira Cavalcante Junior",
-   "id_part": "24414023522",
-   "estudo": "OCEAN(a)",
-   "procedimento": "Aplicação TCLE",
-   "visita": "Semana 144",
-   "tipo": "Realizado no Tasy, não registrado no Polo Trial"
-  },
-  {
-   "faixa": "48h",
-   "idade_h": 48,
-   "data": "08/09/2026",
-   "paciente": "Antonia Eulalia da Costa",
-   "id_part": "24414023301",
-   "estudo": "OCEAN(a)",
-   "procedimento": "Aplicação TCLE",
-   "visita": "Semana 168",
-   "tipo": "Realizado no Tasy, não registrado no Polo Trial"
-  },
-  {
-   "faixa": "48h",
-   "idade_h": 48,
-   "data": "08/09/2026",
    "paciente": "Yara Paiva Ferreira Fernandes",
    "id_part": "BR0042-0094",
    "estudo": "ZENITH",
@@ -801,6 +526,15 @@
    },
    {
     "data": "03/09/2026",
+    "paciente": "Joana Darc de Araujo",
+    "id_part": "FLA01NAT01-701",
+    "estudo": "FLA-01-IB",
+    "visita": "Contato Telefônico de Segurança (Dia 43)",
+    "procedimento": "Consulta Médica",
+    "avaliador": "Larissa Araújo de Lucena"
+   },
+   {
+    "data": "03/09/2026",
     "paciente": "Arlete de Souza Varela Fonseca",
     "id_part": "FLA01NAT01-409",
     "estudo": "FLA-01-IB",
@@ -828,15 +562,6 @@
    },
    {
     "data": "03/09/2026",
-    "paciente": "Paulo Henrique Silva de Lima",
-    "id_part": "10303",
-    "estudo": "GZMK",
-    "visita": "Triagem",
-    "procedimento": "Aplicação TCLE",
-    "avaliador": "Emerson Arcoverde Nunes"
-   },
-   {
-    "data": "03/09/2026",
     "paciente": "Maria Fernandes Rodrigues",
     "id_part": "3076031016",
     "estudo": "EASI-HF",
@@ -855,12 +580,12 @@
    },
    {
     "data": "03/09/2026",
-    "paciente": "Joana Darc de Araujo",
-    "id_part": "FLA01NAT01-701",
-    "estudo": "FLA-01-IB",
-    "visita": "Contato Telefônico de Segurança (Dia 43)",
-    "procedimento": "Consulta Médica",
-    "avaliador": "Larissa Araújo de Lucena"
+    "paciente": "Paulo Henrique Silva de Lima",
+    "id_part": "10303",
+    "estudo": "GZMK",
+    "visita": "Triagem",
+    "procedimento": "Aplicação TCLE",
+    "avaliador": "Emerson Arcoverde Nunes"
    },
    {
     "data": "03/09/2026",
@@ -870,15 +595,6 @@
     "visita": "Mês 6",
     "procedimento": "Consulta Médica",
     "avaliador": "Manoel Gilmar Gurgel Junior"
-   },
-   {
-    "data": "04/09/2026",
-    "paciente": "Francisco Alberci de Melo",
-    "id_part": "FLA01NAT01-283",
-    "estudo": "FLA-01-IB",
-    "visita": "Visita Não Programada",
-    "procedimento": "Consulta Médica",
-    "avaliador": "Indira Neves Maia de Oliveira"
    },
    {
     "data": "04/09/2026",
@@ -899,6 +615,15 @@
     "avaliador": "Artur Diógenes Pinheiro Paiva"
    },
    {
+    "data": "04/09/2026",
+    "paciente": "Francisco Alberci de Melo",
+    "id_part": "FLA01NAT01-283",
+    "estudo": "FLA-01-IB",
+    "visita": "Visita Não Programada",
+    "procedimento": "Consulta Médica",
+    "avaliador": "Indira Neves Maia de Oliveira"
+   },
+   {
     "data": "07/09/2026",
     "paciente": "Leci Freire Camara",
     "id_part": "FLA01NAT01-573",
@@ -906,213 +631,6 @@
     "visita": "Contato Telefônico de Segurança (Dia 43)",
     "procedimento": "Consulta Médica",
     "avaliador": "Társila da Costa Viana"
-   },
-   {
-    "data": "08/09/2026",
-    "paciente": "Adelmo Carlos de Oliveira Lima",
-    "id_part": "24414023318",
-    "estudo": "OCEAN(a)",
-    "visita": "Semana 168",
-    "procedimento": "Aplicação TCLE",
-    "avaliador": "Luana de Oliveira Bandeira"
-   },
-   {
-    "data": "08/09/2026",
-    "paciente": "Antonia Eulalia da Costa",
-    "id_part": "24414023301",
-    "estudo": "OCEAN(a)",
-    "visita": "Semana 168",
-    "procedimento": "Aplicação TCLE",
-    "avaliador": "Luana de Oliveira Bandeira"
-   },
-   {
-    "data": "08/09/2026",
-    "paciente": "Francisco Ferreira Cavalcante Junior",
-    "id_part": "24414023522",
-    "estudo": "OCEAN(a)",
-    "visita": "Semana 144",
-    "procedimento": "Aplicação TCLE",
-    "avaliador": "Luana de Oliveira Bandeira"
-   },
-   {
-    "data": "08/09/2026",
-    "paciente": "Janilson Lima de Souza",
-    "id_part": "24414023373",
-    "estudo": "OCEAN(a)",
-    "visita": "Semana 156",
-    "procedimento": "Aplicação TCLE",
-    "avaliador": "Luana de Oliveira Bandeira"
-   },
-   {
-    "data": "08/09/2026",
-    "paciente": "Vitoria Maria de Almeida",
-    "id_part": "24414023540",
-    "estudo": "OCEAN(a)",
-    "visita": "Não-programada",
-    "procedimento": "Aplicação TCLE",
-    "avaliador": "Luana de Oliveira Bandeira"
-   },
-   {
-    "data": "08/09/2026",
-    "paciente": "Eunira Matias de Mendonca",
-    "id_part": "24414023368",
-    "estudo": "OCEAN(a)",
-    "visita": "Semana 156",
-    "procedimento": "Aplicação TCLE",
-    "avaliador": "Luana de Oliveira Bandeira"
-   },
-   {
-    "data": "08/09/2026",
-    "paciente": "Manoel Joaquim da Silva",
-    "id_part": "24414023359",
-    "estudo": "OCEAN(a)",
-    "visita": "Semana 156",
-    "procedimento": "Aplicação TCLE",
-    "avaliador": "Luana de Oliveira Bandeira"
-   },
-   {
-    "data": "08/09/2026",
-    "paciente": "Elizabeth Alves dos Santos",
-    "id_part": "24414023342",
-    "estudo": "OCEAN(a)",
-    "visita": "Semana 156",
-    "procedimento": "Aplicação TCLE",
-    "avaliador": "Luana de Oliveira Bandeira"
-   },
-   {
-    "data": "08/09/2026",
-    "paciente": "Afranio Medeiros da Costa",
-    "id_part": "24414023311",
-    "estudo": "OCEAN(a)",
-    "visita": "Semana 168",
-    "procedimento": "Aplicação TCLE",
-    "avaliador": "Luana de Oliveira Bandeira"
-   },
-   {
-    "data": "08/09/2026",
-    "paciente": "Antonio Olavo de Souza",
-    "id_part": "24414023647",
-    "estudo": "OCEAN(a)",
-    "visita": "Semana 132",
-    "procedimento": "Aplicação TCLE",
-    "avaliador": "Luana de Oliveira Bandeira"
-   },
-   {
-    "data": "08/09/2026",
-    "paciente": "Leorivan Alves Cabral",
-    "id_part": "24414023518",
-    "estudo": "OCEAN(a)",
-    "visita": "Semana 144",
-    "procedimento": "Aplicação TCLE",
-    "avaliador": "Luana de Oliveira Bandeira"
-   },
-   {
-    "data": "08/09/2026",
-    "paciente": "Ricardo Italo Mendonca",
-    "id_part": "                         ",
-    "estudo": "OCEAN(a)",
-    "visita": "Não-programada",
-    "procedimento": "Aplicação TCLE",
-    "avaliador": "Luana de Oliveira Bandeira"
-   },
-   {
-    "data": "08/09/2026",
-    "paciente": "Maria Risoleide Nepomuceno",
-    "id_part": "24414023618",
-    "estudo": "OCEAN(a)",
-    "visita": "Semana 144",
-    "procedimento": "Aplicação TCLE",
-    "avaliador": "Luana de Oliveira Bandeira"
-   },
-   {
-    "data": "08/09/2026",
-    "paciente": "Geny Soares de Moura",
-    "id_part": "24414023450",
-    "estudo": "OCEAN(a)",
-    "visita": "Semana 156",
-    "procedimento": "Aplicação TCLE",
-    "avaliador": "Luana de Oliveira Bandeira"
-   },
-   {
-    "data": "08/09/2026",
-    "paciente": "Joana Darc de Souza",
-    "id_part": "24414023339",
-    "estudo": "OCEAN(a)",
-    "visita": "Semana 156",
-    "procedimento": "Aplicação TCLE",
-    "avaliador": "Luana de Oliveira Bandeira"
-   },
-   {
-    "data": "08/09/2026",
-    "paciente": "Maria Helena Dias de Oliveira Belo",
-    "id_part": "24414023547",
-    "estudo": "OCEAN(a)",
-    "visita": "Semana 144",
-    "procedimento": "Aplicação TCLE",
-    "avaliador": "Luana de Oliveira Bandeira"
-   },
-   {
-    "data": "08/09/2026",
-    "paciente": "Ismenia Ferreira Gomes",
-    "id_part": "24414023615",
-    "estudo": "OCEAN(a)",
-    "visita": "Semana 96",
-    "procedimento": "Aplicação TCLE",
-    "avaliador": "Luana de Oliveira Bandeira"
-   },
-   {
-    "data": "08/09/2026",
-    "paciente": "Rita Ferreira de Oliveira",
-    "id_part": "24414023376",
-    "estudo": "OCEAN(a)",
-    "visita": "Semana 156",
-    "procedimento": "Aplicação TCLE",
-    "avaliador": "Luana de Oliveira Bandeira"
-   },
-   {
-    "data": "08/09/2026",
-    "paciente": "Avanir Varela",
-    "id_part": "24414023429",
-    "estudo": "OCEAN(a)",
-    "visita": "Semana 156",
-    "procedimento": "Aplicação TCLE",
-    "avaliador": "Luana de Oliveira Bandeira"
-   },
-   {
-    "data": "08/09/2026",
-    "paciente": "Francisco Freire da Silva",
-    "id_part": "24414023446",
-    "estudo": "OCEAN(a)",
-    "visita": "Semana 156",
-    "procedimento": "Aplicação TCLE",
-    "avaliador": "Luana de Oliveira Bandeira"
-   },
-   {
-    "data": "08/09/2026",
-    "paciente": "Aderbal Lopes da Costa",
-    "id_part": "24414023505",
-    "estudo": "OCEAN(a)",
-    "visita": "Semana 96",
-    "procedimento": "Aplicação TCLE",
-    "avaliador": "Luana de Oliveira Bandeira"
-   },
-   {
-    "data": "08/09/2026",
-    "paciente": "Theogenes Costa da Silva",
-    "id_part": "24414023405",
-    "estudo": "OCEAN(a)",
-    "visita": "Semana 156",
-    "procedimento": "Aplicação TCLE",
-    "avaliador": "Luana de Oliveira Bandeira"
-   },
-   {
-    "data": "08/09/2026",
-    "paciente": "Josenildo Batista Silva",
-    "id_part": "24414023410",
-    "estudo": "OCEAN(a)",
-    "visita": "Semana 156",
-    "procedimento": "Aplicação TCLE",
-    "avaliador": "Luana de Oliveira Bandeira"
    },
    {
     "data": "08/09/2026",
@@ -1125,21 +643,12 @@
    },
    {
     "data": "08/09/2026",
-    "paciente": "Francisco das Chagas Gomes",
-    "id_part": "24414023400",
-    "estudo": "OCEAN(a)",
-    "visita": "Não-programada",
-    "procedimento": "Aplicação TCLE",
-    "avaliador": "Luana de Oliveira Bandeira"
-   },
-   {
-    "data": "08/09/2026",
-    "paciente": "Yara Paiva Ferreira Fernandes",
-    "id_part": "                         ",
-    "estudo": "ZENITH",
-    "visita": "Pré-Triagem ",
-    "procedimento": "Aplicação TCLE",
-    "avaliador": "Artur Diógenes Pinheiro Paiva"
+    "paciente": "Fabio Valerio de Lima Caetano",
+    "id_part": "19614019313",
+    "estudo": "MARITIME",
+    "visita": "Semana 6",
+    "procedimento": "Consulta Médica",
+    "avaliador": "Kedma Valnice Freire Oliveira"
    },
    {
     "data": "08/09/2026",
@@ -1152,21 +661,12 @@
    },
    {
     "data": "08/09/2026",
-    "paciente": "Fabio Valerio de Lima Caetano",
-    "id_part": "19614019313",
-    "estudo": "MARITIME",
-    "visita": "Semana 6",
-    "procedimento": "Consulta Médica",
-    "avaliador": "Kedma Valnice Freire Oliveira"
-   },
-   {
-    "data": "08/09/2026",
-    "paciente": "Francisco da Paz dos Santos",
-    "id_part": "24414023371",
-    "estudo": "OCEAN(a)",
-    "visita": "EOS",
+    "paciente": "Yara Paiva Ferreira Fernandes",
+    "id_part": "                         ",
+    "estudo": "ZENITH",
+    "visita": "Pré-Triagem ",
     "procedimento": "Aplicação TCLE",
-    "avaliador": "Luana de Oliveira Bandeira"
+    "avaliador": "Artur Diógenes Pinheiro Paiva"
    },
    {
     "data": "08/09/2026",
@@ -3604,8 +3104,8 @@
  "historico": [
   {
    "data": "2026-09-10",
-   "abertas": 64,
-   "taxa": 99.35
+   "abertas": 39,
+   "taxa": 99.64
   }
  ]
 }
