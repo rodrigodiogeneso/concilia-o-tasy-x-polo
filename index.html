@@ -281,20 +281,6 @@
   .faixa-mais48 .col-faixa{color:var(--red);font-weight:600;}
   .faixa-semdata .col-faixa{color:var(--grey);font-weight:600;}
 
-  /* ---------- Notas da rodada ---------- */
-  .nota-card{
-    background:#fff;
-    border:1px solid var(--line);
-    border-left:4px solid var(--navy-700);
-    padding:14px 18px;
-    margin-bottom:10px;
-  }
-  .nota-card.aviso{border-left-color:var(--amber); background:var(--amber-tint);}
-  .nota-card.pendente{border-left-color:var(--red); background:var(--red-tint);}
-  .nota-card.info{border-left-color:var(--navy-700);}
-  .nota-card .titulo{font-weight:600; font-size:14px; margin-bottom:4px; color:var(--ink);}
-  .nota-card .texto{font-size:13.5px; color:var(--ink-soft); line-height:1.5;}
-
   footer{
     max-width:1180px;
     margin:60px auto 40px;
@@ -342,14 +328,6 @@
 </div>
 
 <main>
-
-  <section id="sec-notas" style="display:none;">
-    <div class="section-head">
-      <h2>Notas da rodada</h2>
-      <span class="note" id="notas-data"></span>
-    </div>
-    <div id="notas-lista"></div>
-  </section>
 
   <section id="sec-priorizacao">
     <div class="section-head">
@@ -507,19 +485,6 @@ function esc(v) {
   return String(v);
 }
 
-function renderNotas(d) {
-  const sec = document.getElementById('sec-notas');
-  const notas = d.notas || [];
-  if (!notas.length) { sec.style.display = 'none'; return; }
-  sec.style.display = '';
-  document.getElementById('notas-data').textContent = 'rodada de ' + d.gerado_em;
-  document.getElementById('notas-lista').innerHTML = notas.map(n => `
-    <div class="nota-card ${n.tipo || 'info'}">
-      <div class="titulo">${esc(n.titulo)}</div>
-      <div class="texto">${esc(n.texto)}</div>
-    </div>`).join('');
-}
-
 function renderKpis(d) {
   const horaTxt = d.gerado_em_hora ? ` às ${d.gerado_em_hora}` : '';
   document.getElementById('meta-periodo').textContent =
@@ -639,7 +604,6 @@ async function loadAll() {
     const d = await res.json();
 
     renderKpis(d);
-    renderNotas(d);
     renderPriorizacao(d);
     renderTendencia(d);
     renderPendencias(d);
