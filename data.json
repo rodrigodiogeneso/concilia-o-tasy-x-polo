@@ -4037,5 +4037,32 @@
    "abertas": 85,
    "taxa": 99.49
   }
+ ],
+ "notas": [
+  {
+   "tipo": "info",
+   "titulo": "Só-Polo saltou de 8 para 41 — correção de bug, não piora real",
+   "texto": "Corrigi um bug no motor: pareamentos com mais de 50 dias de diferença entre Tasy e Polo estavam sendo forçados, escondendo pendências reais. As 33 novas entradas do OCEAN (datadas de julho) sempre existiram — só ficaram visíveis agora."
+  },
+  {
+   "tipo": "aviso",
+   "titulo": "Dois lotes de reconsentimento em massa do OCEAN não contam no indicador",
+   "texto": "25 pacientes em 08/09 e 55 em 10/09 assinaram reconsentimento por emenda de protocolo — tratado como correção pontual, não atraso de lançamento, a pedido do Rodrigo."
+  },
+  {
+   "tipo": "aviso",
+   "titulo": "Zero pendências corrigidas nesta rodada",
+   "texto": "Diferente dos dias anteriores, nenhuma pendência de ontem foi resolvida hoje. Vale confirmar com o time se é uma pausa normal."
+  },
+  {
+   "tipo": "pendente",
+   "titulo": "Jose Bezerra de Medeiros Neto (PIEMONTE) e Alberto Ribeiro de Lima — evidência não localizada",
+   "texto": "A Talita confirmou que existe evidência no Tasy para esses dois casos, mas o relatório recebido ainda não mostra esses registros. Vale confirmar com ela novamente."
+  },
+  {
+   "tipo": "pendente",
+   "titulo": "EKBG — decisão de metodologia pendente",
+   "texto": "Maria Ivania Cabral e Suecleide Alves têm consentimento registrado como \"Amostras de PK\" no Tasy, que hoje é excluído da conciliação. Falta decidir se esse formulário conta como TCLE para o estudo EKBG especificamente."
+  }
  ]
 }
