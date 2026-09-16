@@ -1,28 +1,28 @@
 {
- "gerado_em": "15/09/2026",
- "gerado_em_hora": "07:16",
- "periodo": "06/01/2026 a 14/09/2026",
+ "gerado_em": "16/09/2026",
+ "gerado_em_hora": "07:25",
+ "periodo": "06/01/2026 a 15/09/2026",
  "kpis": {
-  "conciliados": 8727,
-  "so_tasy": 22,
-  "so_polo": 42,
-  "taxa": 99.7,
-  "inconsistencias": 188,
+  "conciliados": 8795,
+  "so_tasy": 33,
+  "so_polo": 43,
+  "taxa": 99.6,
+  "inconsistencias": 190,
   "atrasados": 23,
-  "aguardando": 35,
+  "aguardando": 26,
   "executor_divergente": 7,
-  "executor_total": 8727
+  "executor_total": 8795
  },
  "faixas": {
   "24h": 0,
-  "48h": 3,
-  "mais48": 61,
+  "48h": 9,
+  "mais48": 67,
   "semdata": 0
  },
  "priorizacao": [
   {
    "faixa": "mais48",
-   "idade_h": 3648,
+   "idade_h": 3672,
    "data": "13/02/2026",
    "paciente": "Francinildo Grigorio da Silva",
    "id_part": "E0718001",
@@ -33,7 +33,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 2856,
+   "idade_h": 2880,
    "data": "01/04/2026",
    "paciente": "Jose Bezerra de Medeiros Neto",
    "id_part": "12017",
@@ -44,7 +44,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 2856,
+   "idade_h": 2880,
    "data": "01/04/2026",
    "paciente": "Jose Bezerra de Medeiros Neto",
    "id_part": "12017",
@@ -55,7 +55,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 1920,
+   "idade_h": 1944,
    "data": "26/05/2026",
    "paciente": "Alberto Ribeiro de Lima",
    "id_part": "FLA01NAT01-5",
@@ -66,7 +66,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 1512,
+   "idade_h": 1536,
    "data": "18/06/2026",
    "paciente": "Maria Ivania Cabral",
    "id_part": "522508",
@@ -77,7 +77,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 1512,
+   "idade_h": 1536,
    "data": "18/06/2026",
    "paciente": "Suecleide Alves dos Santos Nascimento",
    "id_part": "522594",
@@ -88,7 +88,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 1464,
+   "idade_h": 1488,
    "data": "22/06/2026",
    "paciente": "Elenilson Paulo Santos",
    "id_part": "                         ",
@@ -99,7 +99,18 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 1200,
+   "idade_h": 1320,
+   "data": "01/07/2026",
+   "paciente": "Josefa Cleide de Pontes Franca Alves",
+   "id_part": "BR0042-0100",
+   "estudo": "ZENITH - ALN-AGT01-008 ",
+   "procedimento": "Aplicação TCLE",
+   "visita": "PRÉ-TRIAGEM",
+   "tipo": "Registrado no Polo Trial, sem evidência no Tasy"
+  },
+  {
+   "faixa": "mais48",
+   "idade_h": 1224,
    "data": "07/07/2026",
    "paciente": "Francisco Caninde de Oliveira",
    "id_part": "24414023362",
@@ -110,7 +121,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 1200,
+   "idade_h": 1224,
    "data": "07/07/2026",
    "paciente": "Maria das Dores Silva",
    "id_part": "24414023408",
@@ -121,7 +132,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 1176,
+   "idade_h": 1200,
    "data": "08/07/2026",
    "paciente": "Francisco Ferreira da Silva",
    "id_part": "24414023503",
@@ -132,7 +143,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 1152,
+   "idade_h": 1176,
    "data": "09/07/2026",
    "paciente": "Maria das Gracas Constantino",
    "id_part": "24414023322",
@@ -143,7 +154,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 1152,
+   "idade_h": 1176,
    "data": "09/07/2026",
    "paciente": "Francisco Carlos da Fe",
    "id_part": "24414023344",
@@ -154,7 +165,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 1152,
+   "idade_h": 1176,
    "data": "09/07/2026",
    "paciente": "Janilson Lima de Souza",
    "id_part": "24414023373",
@@ -165,7 +176,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 1152,
+   "idade_h": 1176,
    "data": "09/07/2026",
    "paciente": "Jose Ferreira da Silva",
    "id_part": "24414023471",
@@ -176,7 +187,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 1152,
+   "idade_h": 1176,
    "data": "09/07/2026",
    "paciente": "Mailton Tinoco Cruz",
    "id_part": "24414023334",
@@ -187,7 +198,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 1104,
+   "idade_h": 1128,
    "data": "13/07/2026",
    "paciente": "Josenildo Batista Silva",
    "id_part": "24414023410",
@@ -198,7 +209,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 1104,
+   "idade_h": 1128,
    "data": "13/07/2026",
    "paciente": "Edna Maria da Camara Rocha",
    "id_part": "24414023323",
@@ -209,7 +220,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 1080,
+   "idade_h": 1104,
    "data": "14/07/2026",
    "paciente": "Ricardo Carvalho de Barros",
    "id_part": "24414023357",
@@ -220,7 +231,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 1080,
+   "idade_h": 1104,
    "data": "14/07/2026",
    "paciente": "Antonio Henrique Sarmento Pereira ",
    "id_part": "24414023353",
@@ -231,7 +242,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 1056,
+   "idade_h": 1080,
    "data": "15/07/2026",
    "paciente": "Ana Maria Trajano do Nascimento",
    "id_part": "24414023304",
@@ -242,7 +253,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 1032,
+   "idade_h": 1056,
    "data": "16/07/2026",
    "paciente": "Francisco Gomes da Silva",
    "id_part": "24414023428",
@@ -253,7 +264,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 1032,
+   "idade_h": 1056,
    "data": "16/07/2026",
    "paciente": "Jucie Jorge Bezerra de Oliveira",
    "id_part": "24414023369",
@@ -264,7 +275,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 1008,
+   "idade_h": 1032,
    "data": "17/07/2026",
    "paciente": "Avanir Varela",
    "id_part": "24414023429",
@@ -275,7 +286,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 984,
+   "idade_h": 1008,
    "data": "20/07/2026",
    "paciente": "Rita Ferreira de Oliveira",
    "id_part": "24414023376",
@@ -286,7 +297,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 984,
+   "idade_h": 1008,
    "data": "20/07/2026",
    "paciente": " Joao Severino de Lima",
    "id_part": "24414023542",
@@ -297,7 +308,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 984,
+   "idade_h": 1008,
    "data": "20/07/2026",
    "paciente": "Aderbal Lopes da Costa",
    "id_part": "24414023505",
@@ -308,7 +319,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 960,
+   "idade_h": 984,
    "data": "21/07/2026",
    "paciente": "Marcos Aurelio Moreira",
    "id_part": "24414023541",
@@ -319,7 +330,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 936,
+   "idade_h": 960,
    "data": "22/07/2026",
    "paciente": "Estolano Roberto Lins de Araujo",
    "id_part": "24414023341",
@@ -330,7 +341,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 912,
+   "idade_h": 936,
    "data": "23/07/2026",
    "paciente": "Eunice Tavares de Sousa",
    "id_part": "24414023305",
@@ -341,7 +352,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 864,
+   "idade_h": 888,
    "data": "27/07/2026",
    "paciente": "Gilmar Barboza Nogueira",
    "id_part": "24414023510",
@@ -352,7 +363,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 864,
+   "idade_h": 888,
    "data": "27/07/2026",
    "paciente": "Aldo Andrade da Silva",
    "id_part": "24414023340",
@@ -363,7 +374,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 840,
+   "idade_h": 864,
    "data": "28/07/2026",
    "paciente": "Lucas Felix do Nascimento",
    "id_part": "24414023310",
@@ -374,7 +385,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 744,
+   "idade_h": 768,
    "data": "03/08/2026",
    "paciente": "Jose Paz de Lima",
    "id_part": "24414023306",
@@ -385,7 +396,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 744,
+   "idade_h": 768,
    "data": "03/08/2026",
    "paciente": "Antonia Eulalia da Costa",
    "id_part": "24414023301",
@@ -396,7 +407,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 720,
+   "idade_h": 744,
    "data": "04/08/2026",
    "paciente": "Maria Helena Dias de Oliveira Belo",
    "id_part": "24414023547",
@@ -407,7 +418,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 696,
+   "idade_h": 720,
    "data": "05/08/2026",
    "paciente": "Jose Figueiredo de Lima Junior ",
    "id_part": "24414023432",
@@ -418,7 +429,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 672,
+   "idade_h": 696,
    "data": "06/08/2026",
    "paciente": "Maria do Ceu Martins de Oliveira Monteiro",
    "id_part": "24414023380",
@@ -429,7 +440,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 624,
+   "idade_h": 648,
    "data": "10/08/2026",
    "paciente": "Maria Batista de Lima",
    "id_part": "24414023309",
@@ -440,7 +451,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 552,
+   "idade_h": 576,
    "data": "13/08/2026",
    "paciente": "Jesse Dantas",
    "id_part": "24414023593",
@@ -451,7 +462,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 552,
+   "idade_h": 576,
    "data": "13/08/2026",
    "paciente": "Ismenia Ferreira Gomes",
    "id_part": "24414023615",
@@ -462,7 +473,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 384,
+   "idade_h": 408,
    "data": "24/08/2026",
    "paciente": "Joao Maria Francisco da Silva",
    "id_part": "E0728174",
@@ -473,7 +484,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 240,
+   "idade_h": 264,
    "data": "01/09/2026",
    "paciente": "Pedro Custodio da Fonseca",
    "id_part": "                         ",
@@ -484,7 +495,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 240,
+   "idade_h": 264,
    "data": "01/09/2026",
    "paciente": "Natercia Maria Maciel",
    "id_part": "040600003",
@@ -495,7 +506,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 240,
+   "idade_h": 264,
    "data": "01/09/2026",
    "paciente": "Natercia Maria Maciel",
    "id_part": "040600003",
@@ -506,7 +517,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 216,
+   "idade_h": 240,
    "data": "02/09/2026",
    "paciente": "Angelo Augusto Paula do Nascimento",
    "id_part": "10593",
@@ -517,7 +528,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 192,
+   "idade_h": 216,
    "data": "03/09/2026",
    "paciente": "Paulo Henrique Silva de Lima",
    "id_part": "10303",
@@ -528,7 +539,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 192,
+   "idade_h": 216,
    "data": "03/09/2026",
    "paciente": "Maria Fernandes Rodrigues",
    "id_part": "3076031016",
@@ -539,7 +550,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 192,
+   "idade_h": 216,
    "data": "03/09/2026",
    "paciente": "Maria Irisman Santana",
    "id_part": "1076031027",
@@ -550,7 +561,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 192,
+   "idade_h": 216,
    "data": "03/09/2026",
    "paciente": "Idelyze Maria Oliveira Paiva de Assis",
    "id_part": "2016002",
@@ -561,7 +572,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 192,
+   "idade_h": 216,
    "data": "03/09/2026",
    "paciente": "Arlete de Souza Varela Fonseca",
    "id_part": "FLA01NAT01-409",
@@ -572,7 +583,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 192,
+   "idade_h": 216,
    "data": "03/09/2026",
    "paciente": "Joana Darc de Araujo",
    "id_part": "FLA01NAT01-701",
@@ -583,7 +594,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 168,
+   "idade_h": 192,
    "data": "04/09/2026",
    "paciente": "Francisco Alberci de Melo",
    "id_part": "FLA01NAT01-283",
@@ -594,7 +605,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 120,
+   "idade_h": 144,
    "data": "08/09/2026",
    "paciente": "Carlos Antonio do Amaral",
    "id_part": "                         ",
@@ -605,7 +616,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 120,
+   "idade_h": 144,
    "data": "08/09/2026",
    "paciente": "Eliude Auxiliadora de Oliveira Santos",
    "id_part": "1076031029",
@@ -616,7 +627,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 120,
+   "idade_h": 144,
    "data": "08/09/2026",
    "paciente": "Eliude Auxiliadora de Oliveira Santos",
    "id_part": "1076031029",
@@ -627,7 +638,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 96,
+   "idade_h": 120,
    "data": "09/09/2026",
    "paciente": "Iranildo dos Santos Silva",
    "id_part": "538293",
@@ -638,7 +649,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 96,
+   "idade_h": 120,
    "data": "09/09/2026",
    "paciente": "Ana Claudia do Nascimento",
    "id_part": "E0720539",
@@ -649,7 +660,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 72,
+   "idade_h": 96,
    "data": "10/09/2026",
    "paciente": "Edilson Peres da Silva",
    "id_part": "538453",
@@ -660,7 +671,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 72,
+   "idade_h": 96,
    "data": "10/09/2026",
    "paciente": "Edilson Peres da Silva",
    "id_part": "538453",
@@ -671,7 +682,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 72,
+   "idade_h": 96,
    "data": "10/09/2026",
    "paciente": "Antonio Gomes Neto",
    "id_part": "534808",
@@ -682,7 +693,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 72,
+   "idade_h": 96,
    "data": "10/09/2026",
    "paciente": "Joao Maria Francisco da Silva",
    "id_part": "E0728174",
@@ -692,8 +703,8 @@
    "tipo": "Registrado no Polo Trial, sem evidência no Tasy"
   },
   {
-   "faixa": "48h",
-   "idade_h": 48,
+   "faixa": "mais48",
+   "idade_h": 72,
    "data": "11/09/2026",
    "paciente": "Idelyze Maria Oliveira Paiva de Assis",
    "id_part": "2016002",
@@ -703,8 +714,19 @@
    "tipo": "Realizado no Tasy, não registrado no Polo Trial"
   },
   {
-   "faixa": "48h",
-   "idade_h": 48,
+   "faixa": "mais48",
+   "idade_h": 72,
+   "data": "11/09/2026",
+   "paciente": "Jose Daildo Bento da Silva",
+   "id_part": "FLA01NAT01-604",
+   "estudo": "FLA-01-IB",
+   "procedimento": "Consulta Médica",
+   "visita": "Contato Telefônico de Segurança (Dia 113)",
+   "tipo": "Realizado no Tasy, não registrado no Polo Trial"
+  },
+  {
+   "faixa": "mais48",
+   "idade_h": 72,
    "data": "11/09/2026",
    "paciente": "Edivania Pereira da Silva",
    "id_part": "                         ",
@@ -714,14 +736,124 @@
    "tipo": "Realizado no Tasy, não registrado no Polo Trial"
   },
   {
-   "faixa": "48h",
-   "idade_h": 48,
+   "faixa": "mais48",
+   "idade_h": 72,
+   "data": "11/09/2026",
+   "paciente": "Jandira de Oliveira Vilar",
+   "id_part": "FLA01NAT01-602",
+   "estudo": "FLA-01-IB",
+   "procedimento": "Consulta Médica",
+   "visita": "Contato Telefônico de Segurança (Dia 113)",
+   "tipo": "Realizado no Tasy, não registrado no Polo Trial"
+  },
+  {
+   "faixa": "mais48",
+   "idade_h": 72,
    "data": "11/09/2026",
    "paciente": "Maria Parisio da Costa",
    "id_part": "FLA01NAT01-603",
    "estudo": "FLA-01-IB",
    "procedimento": "Consulta Médica",
    "visita": "Contato Telefônico de Segurança (Dia 43)",
+   "tipo": "Realizado no Tasy, não registrado no Polo Trial"
+  },
+  {
+   "faixa": "48h",
+   "idade_h": 48,
+   "data": "14/09/2026",
+   "paciente": "Ana Neri Batista dos Santos",
+   "id_part": "E0728202",
+   "estudo": "AZURE",
+   "procedimento": "Aplicação TCLE",
+   "visita": "Triagem",
+   "tipo": "Realizado no Tasy, não registrado no Polo Trial"
+  },
+  {
+   "faixa": "48h",
+   "idade_h": 48,
+   "data": "14/09/2026",
+   "paciente": "Ana Neri Batista dos Santos",
+   "id_part": "E0728202",
+   "estudo": "AZURE",
+   "procedimento": "Consulta Médica",
+   "visita": "Triagem",
+   "tipo": "Realizado no Tasy, não registrado no Polo Trial"
+  },
+  {
+   "faixa": "48h",
+   "idade_h": 48,
+   "data": "14/09/2026",
+   "paciente": "Maria Dalva Gomes Mororo",
+   "id_part": "FLA01NAT01-606",
+   "estudo": "FLA-01-IB",
+   "procedimento": "Consulta Médica",
+   "visita": "Contato Telefônico de Segurança (Dia 113)",
+   "tipo": "Realizado no Tasy, não registrado no Polo Trial"
+  },
+  {
+   "faixa": "48h",
+   "idade_h": 48,
+   "data": "14/09/2026",
+   "paciente": "Jodoval Salustiano de Lima",
+   "id_part": " 1076031025",
+   "estudo": "EASI-HF-20",
+   "procedimento": "Consulta Médica",
+   "visita": "Randomização",
+   "tipo": "Realizado no Tasy, não registrado no Polo Trial"
+  },
+  {
+   "faixa": "48h",
+   "idade_h": 48,
+   "data": "14/09/2026",
+   "paciente": "Francisca Francinete Costa Moreno",
+   "id_part": "BR0042-0098",
+   "estudo": "ZENITH",
+   "procedimento": "Aplicação TCLE",
+   "visita": "Triagem",
+   "tipo": "Realizado no Tasy, não registrado no Polo Trial"
+  },
+  {
+   "faixa": "48h",
+   "idade_h": 48,
+   "data": "14/09/2026",
+   "paciente": "Severino Martins do Nascimento",
+   "id_part": "                         ",
+   "estudo": "ZENITH",
+   "procedimento": "Aplicação TCLE",
+   "visita": "Pré-Triagem ",
+   "tipo": "Realizado no Tasy, não registrado no Polo Trial"
+  },
+  {
+   "faixa": "48h",
+   "idade_h": 48,
+   "data": "14/09/2026",
+   "paciente": "Jose Valnei de Araujo",
+   "id_part": "(03/21)020272",
+   "estudo": "RESPIRE",
+   "procedimento": "Aplicação TCLE",
+   "visita": "Triagem (V-1)",
+   "tipo": "Realizado no Tasy, não registrado no Polo Trial"
+  },
+  {
+   "faixa": "48h",
+   "idade_h": 48,
+   "data": "14/09/2026",
+   "paciente": "Severino Martins do Nascimento",
+   "id_part": "BR0042-0099",
+   "estudo": "ZENITH",
+   "procedimento": "Aplicação TCLE",
+   "visita": "Triagem",
+   "tipo": "Realizado no Tasy, não registrado no Polo Trial"
+  },
+  {
+   "faixa": "48h",
+   "idade_h": 48,
+   "data": "14/09/2026",
+   "paciente": "Jose Valnei de Araujo",
+   "id_part": "(03/21)020272",
+   "estudo": "RESPIRE",
+   "procedimento": "Consulta Médica",
+   "visita": "Triagem (V-1)",
    "tipo": "Realizado no Tasy, não registrado no Polo Trial"
   }
  ],
@@ -792,6 +924,15 @@
    },
    {
     "data": "03/09/2026",
+    "paciente": "Arlete de Souza Varela Fonseca",
+    "id_part": "FLA01NAT01-409",
+    "estudo": "FLA-01-IB",
+    "visita": "Contato Telefônico de Segurança (Dia 113)",
+    "procedimento": "Consulta Médica",
+    "avaliador": "Geovanna Esther Passarini"
+   },
+   {
+    "data": "03/09/2026",
     "paciente": "Idelyze Maria Oliveira Paiva de Assis",
     "id_part": "2016002",
     "estudo": "SIRIUS (INTEGRARE)",
@@ -801,12 +942,12 @@
    },
    {
     "data": "03/09/2026",
-    "paciente": "Arlete de Souza Varela Fonseca",
-    "id_part": "FLA01NAT01-409",
-    "estudo": "FLA-01-IB",
-    "visita": "Contato Telefônico de Segurança (Dia 113)",
+    "paciente": "Maria Irisman Santana",
+    "id_part": "1076031027",
+    "estudo": "EASI-HF-20",
+    "visita": "Triagem",
     "procedimento": "Consulta Médica",
-    "avaliador": "Geovanna Esther Passarini"
+    "avaliador": "Artur Diógenes Pinheiro Paiva"
    },
    {
     "data": "03/09/2026",
@@ -825,15 +966,6 @@
     "visita": "Triagem",
     "procedimento": "Aplicação TCLE",
     "avaliador": "Emerson Arcoverde Nunes"
-   },
-   {
-    "data": "03/09/2026",
-    "paciente": "Maria Irisman Santana",
-    "id_part": "1076031027",
-    "estudo": "EASI-HF-20",
-    "visita": "Triagem",
-    "procedimento": "Consulta Médica",
-    "avaliador": "Artur Diógenes Pinheiro Paiva"
    },
    {
     "data": "04/09/2026",
@@ -873,6 +1005,15 @@
    },
    {
     "data": "10/09/2026",
+    "paciente": "Antonio Gomes Neto",
+    "id_part": "534808",
+    "estudo": "EKBG (MOVE-Lp(a))",
+    "visita": "Randomização",
+    "procedimento": "Consulta Médica",
+    "avaliador": "Maria Sanali Moura de Oliveira Paiva"
+   },
+   {
+    "data": "10/09/2026",
     "paciente": "Edilson Peres da Silva",
     "id_part": "538453",
     "estudo": "EKBG (MOVE-Lp(a))",
@@ -890,13 +1031,22 @@
     "avaliador": "Larissa Araújo de Lucena"
    },
    {
-    "data": "10/09/2026",
-    "paciente": "Antonio Gomes Neto",
-    "id_part": "534808",
-    "estudo": "EKBG (MOVE-Lp(a))",
-    "visita": "Randomização",
+    "data": "11/09/2026",
+    "paciente": "Idelyze Maria Oliveira Paiva de Assis",
+    "id_part": "2016002",
+    "estudo": "SIRIUS (INTEGRARE)",
+    "visita": "Semana 28",
     "procedimento": "Consulta Médica",
-    "avaliador": "Maria Sanali Moura de Oliveira Paiva"
+    "avaliador": "Osvaldo Pimentel de Oliveira Neto"
+   },
+   {
+    "data": "11/09/2026",
+    "paciente": "Jose Daildo Bento da Silva",
+    "id_part": "FLA01NAT01-604",
+    "estudo": "FLA-01-IB",
+    "visita": "Contato Telefônico de Segurança (Dia 113)",
+    "procedimento": "Consulta Médica",
+    "avaliador": "Társila da Costa Viana"
    },
    {
     "data": "11/09/2026",
@@ -909,12 +1059,12 @@
    },
    {
     "data": "11/09/2026",
-    "paciente": "Idelyze Maria Oliveira Paiva de Assis",
-    "id_part": "2016002",
-    "estudo": "SIRIUS (INTEGRARE)",
-    "visita": "Semana 28",
+    "paciente": "Jandira de Oliveira Vilar",
+    "id_part": "FLA01NAT01-602",
+    "estudo": "FLA-01-IB",
+    "visita": "Contato Telefônico de Segurança (Dia 113)",
     "procedimento": "Consulta Médica",
-    "avaliador": "Osvaldo Pimentel de Oliveira Neto"
+    "avaliador": "Társila da Costa Viana"
    },
    {
     "data": "11/09/2026",
@@ -924,6 +1074,87 @@
     "visita": "Contato Telefônico de Segurança (Dia 43)",
     "procedimento": "Consulta Médica",
     "avaliador": "Indira Neves Maia de Oliveira"
+   },
+   {
+    "data": "14/09/2026",
+    "paciente": "Severino Martins do Nascimento",
+    "id_part": "BR0042-0099",
+    "estudo": "ZENITH",
+    "visita": "Triagem",
+    "procedimento": "Aplicação TCLE",
+    "avaliador": "Larissa Jales de Mota Paiva"
+   },
+   {
+    "data": "14/09/2026",
+    "paciente": "Ana Neri Batista dos Santos",
+    "id_part": "E0728202",
+    "estudo": "AZURE",
+    "visita": "Triagem",
+    "procedimento": "Aplicação TCLE",
+    "avaliador": "Juliana Marinho de Oliveira Dantas"
+   },
+   {
+    "data": "14/09/2026",
+    "paciente": "Ana Neri Batista dos Santos",
+    "id_part": "E0728202",
+    "estudo": "AZURE",
+    "visita": "Triagem",
+    "procedimento": "Consulta Médica",
+    "avaliador": "Kedma Valnice Freire Oliveira"
+   },
+   {
+    "data": "14/09/2026",
+    "paciente": "Maria Dalva Gomes Mororo",
+    "id_part": "FLA01NAT01-606",
+    "estudo": "FLA-01-IB",
+    "visita": "Contato Telefônico de Segurança (Dia 113)",
+    "procedimento": "Consulta Médica",
+    "avaliador": "Geovanna Esther Passarini"
+   },
+   {
+    "data": "14/09/2026",
+    "paciente": "Jodoval Salustiano de Lima",
+    "id_part": " 1076031025",
+    "estudo": "EASI-HF-20",
+    "visita": "Randomização",
+    "procedimento": "Consulta Médica",
+    "avaliador": "Aline Abreu da Fonseca Diógenes Paiva"
+   },
+   {
+    "data": "14/09/2026",
+    "paciente": "Francisca Francinete Costa Moreno",
+    "id_part": "BR0042-0098",
+    "estudo": "ZENITH",
+    "visita": "Triagem",
+    "procedimento": "Aplicação TCLE",
+    "avaliador": "Artur Diógenes Pinheiro Paiva"
+   },
+   {
+    "data": "14/09/2026",
+    "paciente": "Severino Martins do Nascimento",
+    "id_part": "                         ",
+    "estudo": "ZENITH",
+    "visita": "Pré-Triagem ",
+    "procedimento": "Aplicação TCLE",
+    "avaliador": "Larissa Jales de Mota Paiva"
+   },
+   {
+    "data": "14/09/2026",
+    "paciente": "Jose Valnei de Araujo",
+    "id_part": "(03/21)020272",
+    "estudo": "RESPIRE",
+    "visita": "Triagem (V-1)",
+    "procedimento": "Aplicação TCLE",
+    "avaliador": "Artur Diógenes Pinheiro Paiva"
+   },
+   {
+    "data": "14/09/2026",
+    "paciente": "Jose Valnei de Araujo",
+    "id_part": "(03/21)020272",
+    "estudo": "RESPIRE",
+    "visita": "Triagem (V-1)",
+    "procedimento": "Consulta Médica",
+    "avaliador": "Artur Diógenes Pinheiro Paiva"
    }
   ],
   "t2": [],
@@ -974,13 +1205,13 @@
     "executor": "Larissa Jales de Mota Paiva"
    },
    {
-    "data": "07/07/2026",
-    "paciente": "Francisco Caninde de Oliveira",
-    "id_part": "24414023362",
-    "estudo": "OCEAN (20180244)",
-    "visita": "Semana 156",
+    "data": "01/07/2026",
+    "paciente": "Josefa Cleide de Pontes Franca Alves",
+    "id_part": "BR0042-0100",
+    "estudo": "ZENITH - ALN-AGT01-008 ",
+    "visita": "PRÉ-TRIAGEM",
     "procedimento": "Aplicação TCLE",
-    "executor": "Artur Diógenes Pinheiro Paiva"
+    "executor": "Indira Neves Maia de Oliveira"
    },
    {
     "data": "07/07/2026",
@@ -990,6 +1221,15 @@
     "visita": "Semana 156",
     "procedimento": "Aplicação TCLE",
     "executor": "Nathália Martins Alves Miranda"
+   },
+   {
+    "data": "07/07/2026",
+    "paciente": "Francisco Caninde de Oliveira",
+    "id_part": "24414023362",
+    "estudo": "OCEAN (20180244)",
+    "visita": "Semana 156",
+    "procedimento": "Aplicação TCLE",
+    "executor": "Artur Diógenes Pinheiro Paiva"
    },
    {
     "data": "08/07/2026",
@@ -1002,17 +1242,17 @@
    },
    {
     "data": "09/07/2026",
-    "paciente": "Mailton Tinoco Cruz",
-    "id_part": "24414023334",
+    "paciente": "Maria das Gracas Constantino",
+    "id_part": "24414023322",
     "estudo": "OCEAN (20180244)",
     "visita": "Semana 156",
     "procedimento": "Aplicação TCLE",
-    "executor": "Larissa Jales de Mota Paiva"
+    "executor": "Bruna Sarubbi Scaggion Soares"
    },
    {
     "data": "09/07/2026",
-    "paciente": "Jose Ferreira da Silva",
-    "id_part": "24414023471",
+    "paciente": "Francisco Carlos da Fe",
+    "id_part": "24414023344",
     "estudo": "OCEAN (20180244)",
     "visita": "Não-programada",
     "procedimento": "Aplicação TCLE",
@@ -1029,8 +1269,8 @@
    },
    {
     "data": "09/07/2026",
-    "paciente": "Francisco Carlos da Fe",
-    "id_part": "24414023344",
+    "paciente": "Jose Ferreira da Silva",
+    "id_part": "24414023471",
     "estudo": "OCEAN (20180244)",
     "visita": "Não-programada",
     "procedimento": "Aplicação TCLE",
@@ -1038,12 +1278,12 @@
    },
    {
     "data": "09/07/2026",
-    "paciente": "Maria das Gracas Constantino",
-    "id_part": "24414023322",
+    "paciente": "Mailton Tinoco Cruz",
+    "id_part": "24414023334",
     "estudo": "OCEAN (20180244)",
     "visita": "Semana 156",
     "procedimento": "Aplicação TCLE",
-    "executor": "Bruna Sarubbi Scaggion Soares"
+    "executor": "Larissa Jales de Mota Paiva"
    },
    {
     "data": "13/07/2026",
@@ -1119,6 +1359,15 @@
    },
    {
     "data": "20/07/2026",
+    "paciente": " Joao Severino de Lima",
+    "id_part": "24414023542",
+    "estudo": "OCEAN (20180244)",
+    "visita": "Semana 144",
+    "procedimento": "Aplicação TCLE",
+    "executor": "Bruna Sarubbi Scaggion Soares"
+   },
+   {
+    "data": "20/07/2026",
     "paciente": "Aderbal Lopes da Costa",
     "id_part": "24414023505",
     "estudo": "OCEAN (20180244)",
@@ -1134,15 +1383,6 @@
     "visita": "Semana 156",
     "procedimento": "Aplicação TCLE",
     "executor": "Artur Diógenes Pinheiro Paiva"
-   },
-   {
-    "data": "20/07/2026",
-    "paciente": " Joao Severino de Lima",
-    "id_part": "24414023542",
-    "estudo": "OCEAN (20180244)",
-    "visita": "Semana 144",
-    "procedimento": "Aplicação TCLE",
-    "executor": "Bruna Sarubbi Scaggion Soares"
    },
    {
     "data": "21/07/2026",
@@ -1285,8 +1525,8 @@
     "id_part": "1076031029",
     "estudo": "1378-0020 EASI-HF",
     "visita": "TRIAGEM",
-    "procedimento": "Aplicação TCLE",
-    "executor": "Bruna Sarubbi Scaggion Soares"
+    "procedimento": "Consulta Médica",
+    "executor": "Aline Abreu da Fonseca Diógenes Paiva"
    },
    {
     "data": "08/09/2026",
@@ -1294,8 +1534,8 @@
     "id_part": "1076031029",
     "estudo": "1378-0020 EASI-HF",
     "visita": "TRIAGEM",
-    "procedimento": "Consulta Médica",
-    "executor": "Aline Abreu da Fonseca Diógenes Paiva"
+    "procedimento": "Aplicação TCLE",
+    "executor": "Bruna Sarubbi Scaggion Soares"
    },
    {
     "data": "10/09/2026",
@@ -3563,6 +3803,30 @@
     "dias_dif": 1,
     "horas_uteis": 24,
     "atrasado": false
+   },
+   {
+    "prioridade": 189,
+    "paciente": "Edeuza Maria Rodrigues de Melo",
+    "id_part": "19614019328",
+    "estudo": "MARITIME",
+    "procedimento": "Consulta Médica",
+    "data_tasy": "14/09/2026",
+    "data_polo": "15/09/2026",
+    "dias_dif": 1,
+    "horas_uteis": 24,
+    "atrasado": false
+   },
+   {
+    "prioridade": 190,
+    "paciente": "Leandra Costa da Silva",
+    "id_part": "(03/21)020258",
+    "estudo": "RESPIRE",
+    "procedimento": "Consulta Médica",
+    "data_tasy": "14/09/2026",
+    "data_polo": "15/09/2026",
+    "dias_dif": 1,
+    "horas_uteis": 24,
+    "atrasado": false
    }
   ],
   "t5": [
@@ -3931,6 +4195,11 @@
    "data": "2026-09-15",
    "abertas": 64,
    "taxa": 99.75
+  },
+  {
+   "data": "2026-09-16",
+   "abertas": 76,
+   "taxa": 99.63
   }
  ]
 }
