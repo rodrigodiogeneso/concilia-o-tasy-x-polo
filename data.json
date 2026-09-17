@@ -1,28 +1,28 @@
 {
- "gerado_em": "16/09/2026",
- "gerado_em_hora": "07:25",
- "periodo": "06/01/2026 a 15/09/2026",
+ "gerado_em": "17/09/2026",
+ "gerado_em_hora": "07:43",
+ "periodo": "06/01/2026 a 16/09/2026",
  "kpis": {
-  "conciliados": 8795,
+  "conciliados": 8867,
   "so_tasy": 33,
-  "so_polo": 43,
+  "so_polo": 44,
   "taxa": 99.6,
-  "inconsistencias": 190,
+  "inconsistencias": 192,
   "atrasados": 23,
-  "aguardando": 26,
-  "executor_divergente": 7,
-  "executor_total": 8795
+  "aguardando": 22,
+  "executor_divergente": 8,
+  "executor_total": 8867
  },
  "faixas": {
-  "24h": 0,
-  "48h": 9,
-  "mais48": 67,
+  "24h": 1,
+  "48h": 4,
+  "mais48": 72,
   "semdata": 0
  },
  "priorizacao": [
   {
    "faixa": "mais48",
-   "idade_h": 3672,
+   "idade_h": 3696,
    "data": "13/02/2026",
    "paciente": "Francinildo Grigorio da Silva",
    "id_part": "E0718001",
@@ -33,7 +33,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 2880,
+   "idade_h": 2904,
    "data": "01/04/2026",
    "paciente": "Jose Bezerra de Medeiros Neto",
    "id_part": "12017",
@@ -44,7 +44,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 2880,
+   "idade_h": 2904,
    "data": "01/04/2026",
    "paciente": "Jose Bezerra de Medeiros Neto",
    "id_part": "12017",
@@ -55,7 +55,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 1944,
+   "idade_h": 1968,
    "data": "26/05/2026",
    "paciente": "Alberto Ribeiro de Lima",
    "id_part": "FLA01NAT01-5",
@@ -66,7 +66,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 1536,
+   "idade_h": 1560,
    "data": "18/06/2026",
    "paciente": "Maria Ivania Cabral",
    "id_part": "522508",
@@ -77,7 +77,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 1536,
+   "idade_h": 1560,
    "data": "18/06/2026",
    "paciente": "Suecleide Alves dos Santos Nascimento",
    "id_part": "522594",
@@ -88,7 +88,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 1488,
+   "idade_h": 1512,
    "data": "22/06/2026",
    "paciente": "Elenilson Paulo Santos",
    "id_part": "                         ",
@@ -99,7 +99,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 1320,
+   "idade_h": 1344,
    "data": "01/07/2026",
    "paciente": "Josefa Cleide de Pontes Franca Alves",
    "id_part": "BR0042-0100",
@@ -110,7 +110,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 1224,
+   "idade_h": 1248,
    "data": "07/07/2026",
    "paciente": "Francisco Caninde de Oliveira",
    "id_part": "24414023362",
@@ -121,7 +121,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 1224,
+   "idade_h": 1248,
    "data": "07/07/2026",
    "paciente": "Maria das Dores Silva",
    "id_part": "24414023408",
@@ -132,7 +132,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 1200,
+   "idade_h": 1224,
    "data": "08/07/2026",
    "paciente": "Francisco Ferreira da Silva",
    "id_part": "24414023503",
@@ -143,7 +143,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 1176,
+   "idade_h": 1200,
    "data": "09/07/2026",
    "paciente": "Maria das Gracas Constantino",
    "id_part": "24414023322",
@@ -154,7 +154,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 1176,
+   "idade_h": 1200,
    "data": "09/07/2026",
    "paciente": "Francisco Carlos da Fe",
    "id_part": "24414023344",
@@ -165,7 +165,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 1176,
+   "idade_h": 1200,
    "data": "09/07/2026",
    "paciente": "Janilson Lima de Souza",
    "id_part": "24414023373",
@@ -176,7 +176,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 1176,
+   "idade_h": 1200,
    "data": "09/07/2026",
    "paciente": "Jose Ferreira da Silva",
    "id_part": "24414023471",
@@ -187,7 +187,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 1176,
+   "idade_h": 1200,
    "data": "09/07/2026",
    "paciente": "Mailton Tinoco Cruz",
    "id_part": "24414023334",
@@ -198,7 +198,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 1128,
+   "idade_h": 1152,
    "data": "13/07/2026",
    "paciente": "Josenildo Batista Silva",
    "id_part": "24414023410",
@@ -209,7 +209,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 1128,
+   "idade_h": 1152,
    "data": "13/07/2026",
    "paciente": "Edna Maria da Camara Rocha",
    "id_part": "24414023323",
@@ -220,7 +220,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 1104,
+   "idade_h": 1128,
    "data": "14/07/2026",
    "paciente": "Ricardo Carvalho de Barros",
    "id_part": "24414023357",
@@ -231,7 +231,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 1104,
+   "idade_h": 1128,
    "data": "14/07/2026",
    "paciente": "Antonio Henrique Sarmento Pereira ",
    "id_part": "24414023353",
@@ -242,7 +242,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 1080,
+   "idade_h": 1104,
    "data": "15/07/2026",
    "paciente": "Ana Maria Trajano do Nascimento",
    "id_part": "24414023304",
@@ -253,7 +253,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 1056,
+   "idade_h": 1080,
    "data": "16/07/2026",
    "paciente": "Francisco Gomes da Silva",
    "id_part": "24414023428",
@@ -264,7 +264,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 1056,
+   "idade_h": 1080,
    "data": "16/07/2026",
    "paciente": "Jucie Jorge Bezerra de Oliveira",
    "id_part": "24414023369",
@@ -275,7 +275,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 1032,
+   "idade_h": 1056,
    "data": "17/07/2026",
    "paciente": "Avanir Varela",
    "id_part": "24414023429",
@@ -286,7 +286,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 1008,
+   "idade_h": 1032,
    "data": "20/07/2026",
    "paciente": "Rita Ferreira de Oliveira",
    "id_part": "24414023376",
@@ -297,7 +297,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 1008,
+   "idade_h": 1032,
    "data": "20/07/2026",
    "paciente": " Joao Severino de Lima",
    "id_part": "24414023542",
@@ -308,7 +308,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 1008,
+   "idade_h": 1032,
    "data": "20/07/2026",
    "paciente": "Aderbal Lopes da Costa",
    "id_part": "24414023505",
@@ -319,7 +319,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 984,
+   "idade_h": 1008,
    "data": "21/07/2026",
    "paciente": "Marcos Aurelio Moreira",
    "id_part": "24414023541",
@@ -330,7 +330,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 960,
+   "idade_h": 984,
    "data": "22/07/2026",
    "paciente": "Estolano Roberto Lins de Araujo",
    "id_part": "24414023341",
@@ -341,7 +341,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 936,
+   "idade_h": 960,
    "data": "23/07/2026",
    "paciente": "Eunice Tavares de Sousa",
    "id_part": "24414023305",
@@ -352,7 +352,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 888,
+   "idade_h": 912,
    "data": "27/07/2026",
    "paciente": "Gilmar Barboza Nogueira",
    "id_part": "24414023510",
@@ -363,7 +363,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 888,
+   "idade_h": 912,
    "data": "27/07/2026",
    "paciente": "Aldo Andrade da Silva",
    "id_part": "24414023340",
@@ -374,7 +374,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 864,
+   "idade_h": 888,
    "data": "28/07/2026",
    "paciente": "Lucas Felix do Nascimento",
    "id_part": "24414023310",
@@ -385,7 +385,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 768,
+   "idade_h": 792,
    "data": "03/08/2026",
    "paciente": "Jose Paz de Lima",
    "id_part": "24414023306",
@@ -396,7 +396,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 768,
+   "idade_h": 792,
    "data": "03/08/2026",
    "paciente": "Antonia Eulalia da Costa",
    "id_part": "24414023301",
@@ -407,7 +407,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 744,
+   "idade_h": 768,
    "data": "04/08/2026",
    "paciente": "Maria Helena Dias de Oliveira Belo",
    "id_part": "24414023547",
@@ -418,7 +418,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 720,
+   "idade_h": 744,
    "data": "05/08/2026",
    "paciente": "Jose Figueiredo de Lima Junior ",
    "id_part": "24414023432",
@@ -429,7 +429,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 696,
+   "idade_h": 720,
    "data": "06/08/2026",
    "paciente": "Maria do Ceu Martins de Oliveira Monteiro",
    "id_part": "24414023380",
@@ -440,7 +440,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 648,
+   "idade_h": 672,
    "data": "10/08/2026",
    "paciente": "Maria Batista de Lima",
    "id_part": "24414023309",
@@ -451,7 +451,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 576,
+   "idade_h": 600,
    "data": "13/08/2026",
    "paciente": "Jesse Dantas",
    "id_part": "24414023593",
@@ -462,7 +462,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 576,
+   "idade_h": 600,
    "data": "13/08/2026",
    "paciente": "Ismenia Ferreira Gomes",
    "id_part": "24414023615",
@@ -473,7 +473,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 408,
+   "idade_h": 432,
    "data": "24/08/2026",
    "paciente": "Joao Maria Francisco da Silva",
    "id_part": "E0728174",
@@ -484,7 +484,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 264,
+   "idade_h": 288,
    "data": "01/09/2026",
    "paciente": "Pedro Custodio da Fonseca",
    "id_part": "                         ",
@@ -495,7 +495,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 264,
+   "idade_h": 288,
    "data": "01/09/2026",
    "paciente": "Natercia Maria Maciel",
    "id_part": "040600003",
@@ -506,7 +506,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 264,
+   "idade_h": 288,
    "data": "01/09/2026",
    "paciente": "Natercia Maria Maciel",
    "id_part": "040600003",
@@ -517,7 +517,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 240,
+   "idade_h": 264,
    "data": "02/09/2026",
    "paciente": "Angelo Augusto Paula do Nascimento",
    "id_part": "10593",
@@ -528,7 +528,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 216,
+   "idade_h": 240,
    "data": "03/09/2026",
    "paciente": "Paulo Henrique Silva de Lima",
    "id_part": "10303",
@@ -539,7 +539,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 216,
+   "idade_h": 240,
    "data": "03/09/2026",
    "paciente": "Maria Fernandes Rodrigues",
    "id_part": "3076031016",
@@ -550,7 +550,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 216,
+   "idade_h": 240,
    "data": "03/09/2026",
    "paciente": "Maria Irisman Santana",
    "id_part": "1076031027",
@@ -561,7 +561,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 216,
+   "idade_h": 240,
    "data": "03/09/2026",
    "paciente": "Idelyze Maria Oliveira Paiva de Assis",
    "id_part": "2016002",
@@ -572,7 +572,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 216,
+   "idade_h": 240,
    "data": "03/09/2026",
    "paciente": "Arlete de Souza Varela Fonseca",
    "id_part": "FLA01NAT01-409",
@@ -583,7 +583,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 216,
+   "idade_h": 240,
    "data": "03/09/2026",
    "paciente": "Joana Darc de Araujo",
    "id_part": "FLA01NAT01-701",
@@ -594,7 +594,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 192,
+   "idade_h": 216,
    "data": "04/09/2026",
    "paciente": "Francisco Alberci de Melo",
    "id_part": "FLA01NAT01-283",
@@ -605,7 +605,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 144,
+   "idade_h": 168,
    "data": "08/09/2026",
    "paciente": "Carlos Antonio do Amaral",
    "id_part": "                         ",
@@ -616,7 +616,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 144,
+   "idade_h": 168,
    "data": "08/09/2026",
    "paciente": "Eliude Auxiliadora de Oliveira Santos",
    "id_part": "1076031029",
@@ -627,7 +627,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 144,
+   "idade_h": 168,
    "data": "08/09/2026",
    "paciente": "Eliude Auxiliadora de Oliveira Santos",
    "id_part": "1076031029",
@@ -638,7 +638,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 120,
+   "idade_h": 144,
    "data": "09/09/2026",
    "paciente": "Iranildo dos Santos Silva",
    "id_part": "538293",
@@ -649,7 +649,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 120,
+   "idade_h": 144,
    "data": "09/09/2026",
    "paciente": "Ana Claudia do Nascimento",
    "id_part": "E0720539",
@@ -660,7 +660,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 96,
+   "idade_h": 120,
    "data": "10/09/2026",
    "paciente": "Edilson Peres da Silva",
    "id_part": "538453",
@@ -671,7 +671,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 96,
+   "idade_h": 120,
    "data": "10/09/2026",
    "paciente": "Edilson Peres da Silva",
    "id_part": "538453",
@@ -682,7 +682,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 96,
+   "idade_h": 120,
    "data": "10/09/2026",
    "paciente": "Antonio Gomes Neto",
    "id_part": "534808",
@@ -693,7 +693,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 96,
+   "idade_h": 120,
    "data": "10/09/2026",
    "paciente": "Joao Maria Francisco da Silva",
    "id_part": "E0728174",
@@ -704,7 +704,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 72,
+   "idade_h": 96,
    "data": "11/09/2026",
    "paciente": "Idelyze Maria Oliveira Paiva de Assis",
    "id_part": "2016002",
@@ -715,18 +715,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 72,
-   "data": "11/09/2026",
-   "paciente": "Jose Daildo Bento da Silva",
-   "id_part": "FLA01NAT01-604",
-   "estudo": "FLA-01-IB",
-   "procedimento": "Consulta Médica",
-   "visita": "Contato Telefônico de Segurança (Dia 113)",
-   "tipo": "Realizado no Tasy, não registrado no Polo Trial"
-  },
-  {
-   "faixa": "mais48",
-   "idade_h": 72,
+   "idade_h": 96,
    "data": "11/09/2026",
    "paciente": "Edivania Pereira da Silva",
    "id_part": "                         ",
@@ -737,18 +726,7 @@
   },
   {
    "faixa": "mais48",
-   "idade_h": 72,
-   "data": "11/09/2026",
-   "paciente": "Jandira de Oliveira Vilar",
-   "id_part": "FLA01NAT01-602",
-   "estudo": "FLA-01-IB",
-   "procedimento": "Consulta Médica",
-   "visita": "Contato Telefônico de Segurança (Dia 113)",
-   "tipo": "Realizado no Tasy, não registrado no Polo Trial"
-  },
-  {
-   "faixa": "mais48",
-   "idade_h": 72,
+   "idade_h": 96,
    "data": "11/09/2026",
    "paciente": "Maria Parisio da Costa",
    "id_part": "FLA01NAT01-603",
@@ -758,30 +736,8 @@
    "tipo": "Realizado no Tasy, não registrado no Polo Trial"
   },
   {
-   "faixa": "48h",
-   "idade_h": 48,
-   "data": "14/09/2026",
-   "paciente": "Ana Neri Batista dos Santos",
-   "id_part": "E0728202",
-   "estudo": "AZURE",
-   "procedimento": "Aplicação TCLE",
-   "visita": "Triagem",
-   "tipo": "Realizado no Tasy, não registrado no Polo Trial"
-  },
-  {
-   "faixa": "48h",
-   "idade_h": 48,
-   "data": "14/09/2026",
-   "paciente": "Ana Neri Batista dos Santos",
-   "id_part": "E0728202",
-   "estudo": "AZURE",
-   "procedimento": "Consulta Médica",
-   "visita": "Triagem",
-   "tipo": "Realizado no Tasy, não registrado no Polo Trial"
-  },
-  {
-   "faixa": "48h",
-   "idade_h": 48,
+   "faixa": "mais48",
+   "idade_h": 72,
    "data": "14/09/2026",
    "paciente": "Maria Dalva Gomes Mororo",
    "id_part": "FLA01NAT01-606",
@@ -791,8 +747,8 @@
    "tipo": "Realizado no Tasy, não registrado no Polo Trial"
   },
   {
-   "faixa": "48h",
-   "idade_h": 48,
+   "faixa": "mais48",
+   "idade_h": 72,
    "data": "14/09/2026",
    "paciente": "Jodoval Salustiano de Lima",
    "id_part": " 1076031025",
@@ -802,8 +758,8 @@
    "tipo": "Realizado no Tasy, não registrado no Polo Trial"
   },
   {
-   "faixa": "48h",
-   "idade_h": 48,
+   "faixa": "mais48",
+   "idade_h": 72,
    "data": "14/09/2026",
    "paciente": "Francisca Francinete Costa Moreno",
    "id_part": "BR0042-0098",
@@ -813,8 +769,8 @@
    "tipo": "Realizado no Tasy, não registrado no Polo Trial"
   },
   {
-   "faixa": "48h",
-   "idade_h": 48,
+   "faixa": "mais48",
+   "idade_h": 72,
    "data": "14/09/2026",
    "paciente": "Severino Martins do Nascimento",
    "id_part": "                         ",
@@ -824,8 +780,8 @@
    "tipo": "Realizado no Tasy, não registrado no Polo Trial"
   },
   {
-   "faixa": "48h",
-   "idade_h": 48,
+   "faixa": "mais48",
+   "idade_h": 72,
    "data": "14/09/2026",
    "paciente": "Jose Valnei de Araujo",
    "id_part": "(03/21)020272",
@@ -835,8 +791,8 @@
    "tipo": "Realizado no Tasy, não registrado no Polo Trial"
   },
   {
-   "faixa": "48h",
-   "idade_h": 48,
+   "faixa": "mais48",
+   "idade_h": 72,
    "data": "14/09/2026",
    "paciente": "Severino Martins do Nascimento",
    "id_part": "BR0042-0099",
@@ -846,8 +802,8 @@
    "tipo": "Realizado no Tasy, não registrado no Polo Trial"
   },
   {
-   "faixa": "48h",
-   "idade_h": 48,
+   "faixa": "mais48",
+   "idade_h": 72,
    "data": "14/09/2026",
    "paciente": "Jose Valnei de Araujo",
    "id_part": "(03/21)020272",
@@ -855,6 +811,61 @@
    "procedimento": "Consulta Médica",
    "visita": "Triagem (V-1)",
    "tipo": "Realizado no Tasy, não registrado no Polo Trial"
+  },
+  {
+   "faixa": "48h",
+   "idade_h": 48,
+   "data": "15/09/2026",
+   "paciente": "Nivaldo Rodrigues de Lima",
+   "id_part": "                         ",
+   "estudo": "ZENITH",
+   "procedimento": "Aplicação TCLE",
+   "visita": "Pré-Triagem ",
+   "tipo": "Realizado no Tasy, não registrado no Polo Trial"
+  },
+  {
+   "faixa": "48h",
+   "idade_h": 48,
+   "data": "15/09/2026",
+   "paciente": "Sonia Regina Cardozo da Silva",
+   "id_part": "E0720549",
+   "estudo": "PACIFIC",
+   "procedimento": "Aplicação TCLE",
+   "visita": "Triagem",
+   "tipo": "Realizado no Tasy, não registrado no Polo Trial"
+  },
+  {
+   "faixa": "48h",
+   "idade_h": 48,
+   "data": "15/09/2026",
+   "paciente": "Sonia Regina Cardozo da Silva",
+   "id_part": "E0720549",
+   "estudo": "PACIFIC",
+   "procedimento": "Consulta Médica",
+   "visita": "Triagem",
+   "tipo": "Realizado no Tasy, não registrado no Polo Trial"
+  },
+  {
+   "faixa": "48h",
+   "idade_h": 48,
+   "data": "15/09/2026",
+   "paciente": "Otacilia Marques da Silva",
+   "id_part": "040600006",
+   "estudo": "MK-4482",
+   "procedimento": "Aplicação TCLE",
+   "visita": "Triagem",
+   "tipo": "Realizado no Tasy, não registrado no Polo Trial"
+  },
+  {
+   "faixa": "24h",
+   "idade_h": 24,
+   "data": "16/09/2026",
+   "paciente": "Edilson dos Santos Teixeira",
+   "id_part": "E0728203",
+   "estudo": "D7960C000015 (AZD0780) - AZURE ",
+   "procedimento": "Consulta Médica",
+   "visita": "RANDOMIZAÇÃO",
+   "tipo": "Registrado no Polo Trial, sem evidência no Tasy"
   }
  ],
  "tabelas": {
@@ -1041,15 +1052,6 @@
    },
    {
     "data": "11/09/2026",
-    "paciente": "Jose Daildo Bento da Silva",
-    "id_part": "FLA01NAT01-604",
-    "estudo": "FLA-01-IB",
-    "visita": "Contato Telefônico de Segurança (Dia 113)",
-    "procedimento": "Consulta Médica",
-    "avaliador": "Társila da Costa Viana"
-   },
-   {
-    "data": "11/09/2026",
     "paciente": "Edivania Pereira da Silva",
     "id_part": "                         ",
     "estudo": "ZENITH",
@@ -1059,48 +1061,12 @@
    },
    {
     "data": "11/09/2026",
-    "paciente": "Jandira de Oliveira Vilar",
-    "id_part": "FLA01NAT01-602",
-    "estudo": "FLA-01-IB",
-    "visita": "Contato Telefônico de Segurança (Dia 113)",
-    "procedimento": "Consulta Médica",
-    "avaliador": "Társila da Costa Viana"
-   },
-   {
-    "data": "11/09/2026",
     "paciente": "Maria Parisio da Costa",
     "id_part": "FLA01NAT01-603",
     "estudo": "FLA-01-IB",
     "visita": "Contato Telefônico de Segurança (Dia 43)",
     "procedimento": "Consulta Médica",
     "avaliador": "Indira Neves Maia de Oliveira"
-   },
-   {
-    "data": "14/09/2026",
-    "paciente": "Severino Martins do Nascimento",
-    "id_part": "BR0042-0099",
-    "estudo": "ZENITH",
-    "visita": "Triagem",
-    "procedimento": "Aplicação TCLE",
-    "avaliador": "Larissa Jales de Mota Paiva"
-   },
-   {
-    "data": "14/09/2026",
-    "paciente": "Ana Neri Batista dos Santos",
-    "id_part": "E0728202",
-    "estudo": "AZURE",
-    "visita": "Triagem",
-    "procedimento": "Aplicação TCLE",
-    "avaliador": "Juliana Marinho de Oliveira Dantas"
-   },
-   {
-    "data": "14/09/2026",
-    "paciente": "Ana Neri Batista dos Santos",
-    "id_part": "E0728202",
-    "estudo": "AZURE",
-    "visita": "Triagem",
-    "procedimento": "Consulta Médica",
-    "avaliador": "Kedma Valnice Freire Oliveira"
    },
    {
     "data": "14/09/2026",
@@ -1149,12 +1115,57 @@
    },
    {
     "data": "14/09/2026",
+    "paciente": "Severino Martins do Nascimento",
+    "id_part": "BR0042-0099",
+    "estudo": "ZENITH",
+    "visita": "Triagem",
+    "procedimento": "Aplicação TCLE",
+    "avaliador": "Larissa Jales de Mota Paiva"
+   },
+   {
+    "data": "14/09/2026",
     "paciente": "Jose Valnei de Araujo",
     "id_part": "(03/21)020272",
     "estudo": "RESPIRE",
     "visita": "Triagem (V-1)",
     "procedimento": "Consulta Médica",
     "avaliador": "Artur Diógenes Pinheiro Paiva"
+   },
+   {
+    "data": "15/09/2026",
+    "paciente": "Sonia Regina Cardozo da Silva",
+    "id_part": "E0720549",
+    "estudo": "PACIFIC",
+    "visita": "Triagem",
+    "procedimento": "Consulta Médica",
+    "avaliador": "Maria Sanali Moura de Oliveira Paiva"
+   },
+   {
+    "data": "15/09/2026",
+    "paciente": "Nivaldo Rodrigues de Lima",
+    "id_part": "                         ",
+    "estudo": "ZENITH",
+    "visita": "Pré-Triagem ",
+    "procedimento": "Aplicação TCLE",
+    "avaliador": "Juliana Marinho de Oliveira Dantas"
+   },
+   {
+    "data": "15/09/2026",
+    "paciente": "Sonia Regina Cardozo da Silva",
+    "id_part": "E0720549",
+    "estudo": "PACIFIC",
+    "visita": "Triagem",
+    "procedimento": "Aplicação TCLE",
+    "avaliador": "Maria Sanali Moura de Oliveira Paiva"
+   },
+   {
+    "data": "15/09/2026",
+    "paciente": "Otacilia Marques da Silva",
+    "id_part": "040600006",
+    "estudo": "MK-4482",
+    "visita": "Triagem",
+    "procedimento": "Aplicação TCLE",
+    "avaliador": "Flávio Ribeiro Dantas de Aguiar"
    }
   ],
   "t2": [],
@@ -1260,12 +1271,12 @@
    },
    {
     "data": "09/07/2026",
-    "paciente": "Janilson Lima de Souza",
-    "id_part": "24414023373",
+    "paciente": "Mailton Tinoco Cruz",
+    "id_part": "24414023334",
     "estudo": "OCEAN (20180244)",
     "visita": "Semana 156",
     "procedimento": "Aplicação TCLE",
-    "executor": "Artur Diógenes Pinheiro Paiva"
+    "executor": "Larissa Jales de Mota Paiva"
    },
    {
     "data": "09/07/2026",
@@ -1278,12 +1289,12 @@
    },
    {
     "data": "09/07/2026",
-    "paciente": "Mailton Tinoco Cruz",
-    "id_part": "24414023334",
+    "paciente": "Janilson Lima de Souza",
+    "id_part": "24414023373",
     "estudo": "OCEAN (20180244)",
     "visita": "Semana 156",
     "procedimento": "Aplicação TCLE",
-    "executor": "Larissa Jales de Mota Paiva"
+    "executor": "Artur Diógenes Pinheiro Paiva"
    },
    {
     "data": "13/07/2026",
@@ -1545,6 +1556,15 @@
     "visita": "VISITA 4 ",
     "procedimento": "Consulta Médica",
     "executor": "Larissa Araújo de Lucena"
+   },
+   {
+    "data": "16/09/2026",
+    "paciente": "Edilson dos Santos Teixeira",
+    "id_part": "E0728203",
+    "estudo": "D7960C000015 (AZD0780) - AZURE ",
+    "visita": "RANDOMIZAÇÃO",
+    "procedimento": "Consulta Médica",
+    "executor": "Aline Abreu da Fonseca Diógenes Paiva"
    }
   ],
   "t4": [
@@ -1862,6 +1882,18 @@
    },
    {
     "prioridade": 27,
+    "paciente": "Jandira de Oliveira Vilar",
+    "id_part": "FLA01NAT01-602",
+    "estudo": "FLA-01-IB",
+    "procedimento": "Consulta Médica",
+    "data_tasy": "11/09/2026",
+    "data_polo": "16/09/2026",
+    "dias_dif": 5,
+    "horas_uteis": 72,
+    "atrasado": false
+   },
+   {
+    "prioridade": 28,
     "paciente": "Luiz Antonio Galvao",
     "id_part": "FLA01NAT01-338",
     "estudo": "FLA-01-IB",
@@ -1873,7 +1905,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 28,
+    "prioridade": 29,
     "paciente": "Gilberto Menezes Machado",
     "id_part": "FLA01NAT01-401",
     "estudo": "FLA-01-IB",
@@ -1885,7 +1917,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 29,
+    "prioridade": 30,
     "paciente": "Sebastiao Sobrinho da Silva",
     "id_part": "FLA01NAT01-413",
     "estudo": "FLA-01-IB",
@@ -1897,7 +1929,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 30,
+    "prioridade": 31,
     "paciente": "Maria das Gracas de Araujo",
     "id_part": "FLA01NAT01-446",
     "estudo": "FLA-01-IB",
@@ -1909,7 +1941,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 31,
+    "prioridade": 32,
     "paciente": "Luzania Freitas Neri",
     "id_part": "FLA01NAT01-407",
     "estudo": "FLA-01-IB",
@@ -1921,7 +1953,7 @@
     "atrasado": true
    },
    {
-    "prioridade": 32,
+    "prioridade": 33,
     "paciente": "Olival Neri Sobrinho",
     "id_part": "FLA01NAT01-406",
     "estudo": "FLA-01-IB",
@@ -1933,7 +1965,7 @@
     "atrasado": true
    },
    {
-    "prioridade": 33,
+    "prioridade": 34,
     "paciente": "Claudio Rubiano de Freitas",
     "id_part": "4470",
     "estudo": "PAC (INTEGRARE)",
@@ -1945,7 +1977,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 34,
+    "prioridade": 35,
     "paciente": "Jesse Dantas",
     "id_part": "24414023593",
     "estudo": "OCEAN(a)",
@@ -1957,7 +1989,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 35,
+    "prioridade": 36,
     "paciente": "Hilton Roberto Lopes",
     "id_part": "24414023404",
     "estudo": "OCEAN(a)",
@@ -1969,7 +2001,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 36,
+    "prioridade": 37,
     "paciente": "Francisco Redoaldo Campos de Souza",
     "id_part": "3004-0042",
     "estudo": "EVOLVE-MI",
@@ -1981,7 +2013,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 37,
+    "prioridade": 38,
     "paciente": "Maria do Socorro Ribeiro da Silva",
     "id_part": "24414023384",
     "estudo": "OCEAN(a)",
@@ -1993,7 +2025,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 38,
+    "prioridade": 39,
     "paciente": "Joao Maria Teixeira Alexandre",
     "id_part": "19614019315",
     "estudo": "MARITIME",
@@ -2005,7 +2037,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 39,
+    "prioridade": 40,
     "paciente": "Maria Eliete Silva de Melo",
     "id_part": "FLA01NAT01-285",
     "estudo": "FLA-01-IB",
@@ -2017,7 +2049,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 40,
+    "prioridade": 41,
     "paciente": "Ivanildo Lopes da Costa",
     "id_part": "FLA01NAT01-288",
     "estudo": "FLA-01-IB",
@@ -2029,7 +2061,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 41,
+    "prioridade": 42,
     "paciente": "Carlos Alberto Cordeiro de Melo",
     "id_part": "121995",
     "estudo": "LIBREXIA-AFL",
@@ -2041,7 +2073,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 42,
+    "prioridade": 43,
     "paciente": "Gilberto Silva",
     "id_part": "FLA01NAT01-348",
     "estudo": "FLA-01-IB",
@@ -2053,7 +2085,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 43,
+    "prioridade": 44,
     "paciente": "Antonio Ferreira Neto",
     "id_part": "FLA01NAT01-345",
     "estudo": "FLA-01-IB",
@@ -2065,7 +2097,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 44,
+    "prioridade": 45,
     "paciente": "Jose Jaime da Rocha",
     "id_part": "FLA01NAT01-508",
     "estudo": "FLA-01-IB",
@@ -2077,7 +2109,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 45,
+    "prioridade": 46,
     "paciente": "Jose Araujo de Carvalho",
     "id_part": "3004-0055",
     "estudo": "EVOLVE-MI",
@@ -2089,7 +2121,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 46,
+    "prioridade": 47,
     "paciente": "Claudio Rubiano de Freitas",
     "id_part": "4470",
     "estudo": "PAC (INTEGRARE)",
@@ -2101,7 +2133,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 47,
+    "prioridade": 48,
     "paciente": "Elza Maria Pereira",
     "id_part": "FLA01NAT01-467",
     "estudo": "FLA-01-IB",
@@ -2113,7 +2145,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 48,
+    "prioridade": 49,
     "paciente": "Zelia Maria Costa dos Santos",
     "id_part": "FLA01NAT01-37",
     "estudo": "FLA-01-IB",
@@ -2125,7 +2157,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 49,
+    "prioridade": 50,
     "paciente": "Josenita Maria Bezerra Braga de Moura",
     "id_part": "FLA01NAT01-171",
     "estudo": "FLA-01-IB",
@@ -2137,7 +2169,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 50,
+    "prioridade": 51,
     "paciente": "Ana Maria Azevedo Alves",
     "id_part": "FLA01NAT01-213",
     "estudo": "FLA-01-IB",
@@ -2149,7 +2181,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 51,
+    "prioridade": 52,
     "paciente": "Lindalva da Silva",
     "id_part": "FLA01NAT01-365",
     "estudo": "FLA-01-IB",
@@ -2161,7 +2193,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 52,
+    "prioridade": 53,
     "paciente": "Gilberto Monteiro",
     "id_part": "FLA01NAT01-324",
     "estudo": "FLA-01-IB",
@@ -2173,7 +2205,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 53,
+    "prioridade": 54,
     "paciente": "Vicente Rogério Neto",
     "id_part": "FLA01NAT01-320",
     "estudo": "FLA-01-IB",
@@ -2185,7 +2217,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 54,
+    "prioridade": 55,
     "paciente": "Claudemiro Macario de Oliveira",
     "id_part": "FLA01NAT01-342",
     "estudo": "FLA-01-IB",
@@ -2197,7 +2229,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 55,
+    "prioridade": 56,
     "paciente": "Maria do Socorro das Neves da Silva",
     "id_part": "FLA01NAT01-341",
     "estudo": "FLA-01-IB",
@@ -2209,7 +2241,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 56,
+    "prioridade": 57,
     "paciente": "Maria Nalva de Oliveira Silva",
     "id_part": "FLA01NAT01-340",
     "estudo": "FLA-01-IB",
@@ -2221,7 +2253,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 57,
+    "prioridade": 58,
     "paciente": "Terezinha de Jesus Pinheiro Oliveira",
     "id_part": "FLA01NAT01-343",
     "estudo": "FLA-01-IB",
@@ -2233,7 +2265,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 58,
+    "prioridade": 59,
     "paciente": "Roberto Luis Dantas Martins da Silva",
     "id_part": "FLA01NAT01-344",
     "estudo": "FLA-01-IB",
@@ -2245,7 +2277,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 59,
+    "prioridade": 60,
     "paciente": "Vanise Maria Lima do Nascimento",
     "id_part": "FLA01NAT01-395",
     "estudo": "FLA-01-IB",
@@ -2257,7 +2289,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 60,
+    "prioridade": 61,
     "paciente": "Antulio de Brito Paula",
     "id_part": "FLA01NAT01-397",
     "estudo": "FLA-01-IB",
@@ -2269,7 +2301,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 61,
+    "prioridade": 62,
     "paciente": "Evanilda Lima Oliveira do Nascimento",
     "id_part": "FLA01NAT01-398",
     "estudo": "FLA-01-IB",
@@ -2281,7 +2313,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 62,
+    "prioridade": 63,
     "paciente": "Genario Dias do Nascimento",
     "id_part": "FLA01NAT01-350",
     "estudo": "FLA-01-IB",
@@ -2293,7 +2325,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 63,
+    "prioridade": 64,
     "paciente": "Maria de Fatima Xavier de Menezes",
     "id_part": "FLA01NAT01-400",
     "estudo": "FLA-01-IB",
@@ -2305,7 +2337,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 64,
+    "prioridade": 65,
     "paciente": "Marlucia dos Santos",
     "id_part": "FLA01NAT01-402",
     "estudo": "FLA-01-IB",
@@ -2317,7 +2349,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 65,
+    "prioridade": 66,
     "paciente": "Gaspar Teixeira",
     "id_part": "FLA01NAT01-399",
     "estudo": "FLA-01-IB",
@@ -2329,7 +2361,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 66,
+    "prioridade": 67,
     "paciente": "Ana Claudia de Medeiros Vieira",
     "id_part": "FLA01NAT01-404",
     "estudo": "FLA-01-IB",
@@ -2341,7 +2373,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 67,
+    "prioridade": 68,
     "paciente": "Marlucia Ferreira da Silva",
     "id_part": "FLA01NAT01-403",
     "estudo": "FLA-01-IB",
@@ -2353,7 +2385,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 68,
+    "prioridade": 69,
     "paciente": "Daniel Moreira de Morais",
     "id_part": "FLA01NAT01-224",
     "estudo": "FLA-01-IB",
@@ -2365,7 +2397,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 69,
+    "prioridade": 70,
     "paciente": "Vera Lucia Barboza de Carvalho Alves",
     "id_part": "FLA01NAT01-417",
     "estudo": "FLA-01-IB",
@@ -2377,7 +2409,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 70,
+    "prioridade": 71,
     "paciente": "Maria do Carmo de Luna",
     "id_part": " FLA01NAT01-419",
     "estudo": "FLA-01-IB",
@@ -2389,7 +2421,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 71,
+    "prioridade": 72,
     "paciente": "Francisco de Assis Ferreira",
     "id_part": "E0720520",
     "estudo": "PACIFIC",
@@ -2401,7 +2433,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 72,
+    "prioridade": 73,
     "paciente": "Silvana Helena de Melo",
     "id_part": "FLA01NAT01-496",
     "estudo": "FLA-01-IB",
@@ -2413,7 +2445,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 73,
+    "prioridade": 74,
     "paciente": "Joaquim Teixeira da Silva",
     "id_part": "24414023519",
     "estudo": "OCEAN(a)",
@@ -2425,7 +2457,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 74,
+    "prioridade": 75,
     "paciente": "Ivanilde Maria Severiano",
     "id_part": "E0725671",
     "estudo": "PREVENT",
@@ -2437,7 +2469,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 75,
+    "prioridade": 76,
     "paciente": "Maria Eliana da Silva Alves",
     "id_part": "FLA01NAT01-219",
     "estudo": "FLA-01-IB",
@@ -2449,7 +2481,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 76,
+    "prioridade": 77,
     "paciente": "Regina Conceicao de Oliveira",
     "id_part": "FLA01NAT01-29",
     "estudo": "FLA-01-IB",
@@ -2461,7 +2493,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 77,
+    "prioridade": 78,
     "paciente": "Maria Eliana da Silva Alves",
     "id_part": "FLA01NAT01-219",
     "estudo": "FLA-01-IB",
@@ -2473,7 +2505,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 78,
+    "prioridade": 79,
     "paciente": "María de Fatima Brito do Nascimento",
     "id_part": "FLA01NAT01-13",
     "estudo": "FLA-01-IB",
@@ -2485,7 +2517,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 79,
+    "prioridade": 80,
     "paciente": "Alberto Ribeiro de Lima",
     "id_part": "FLA01NAT01-5",
     "estudo": "FLA-01-IB",
@@ -2497,7 +2529,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 80,
+    "prioridade": 81,
     "paciente": "Francisco Decimo Pinheiro Fernandes",
     "id_part": "FLA01NAT01-14",
     "estudo": "FLA-01-IB",
@@ -2509,7 +2541,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 81,
+    "prioridade": 82,
     "paciente": "Maria Inez Cruz da Silva",
     "id_part": "FLA01NAT01-7",
     "estudo": "FLA-01-IB",
@@ -2521,7 +2553,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 82,
+    "prioridade": 83,
     "paciente": "Marli Rocha da Silva",
     "id_part": "FLA01NAT01-8",
     "estudo": "FLA-01-IB",
@@ -2533,7 +2565,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 83,
+    "prioridade": 84,
     "paciente": "Francisco Martins Alves Neto",
     "id_part": "FLA01NAT01-11",
     "estudo": "FLA-01-IB",
@@ -2545,7 +2577,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 84,
+    "prioridade": 85,
     "paciente": "Geraldo Irineu Matias",
     "id_part": "FLA01NAT01-55",
     "estudo": "FLA-01-IB",
@@ -2557,7 +2589,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 85,
+    "prioridade": 86,
     "paciente": "Ulisses Leitao do Nascimento",
     "id_part": "FLA01NAT01-140",
     "estudo": "FLA-01-IB",
@@ -2569,7 +2601,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 86,
+    "prioridade": 87,
     "paciente": "Leda Maria de Franca",
     "id_part": "FLA01NAT01-75",
     "estudo": "FLA-01-IB",
@@ -2581,7 +2613,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 87,
+    "prioridade": 88,
     "paciente": "Creuza Odete da Silva Pereira",
     "id_part": "FLA01NAT01-47",
     "estudo": "FLA-01-IB",
@@ -2593,7 +2625,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 88,
+    "prioridade": 89,
     "paciente": "Joao Bento de Moura",
     "id_part": "FLA01NAT01-48",
     "estudo": "FLA-01-IB",
@@ -2605,7 +2637,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 89,
+    "prioridade": 90,
     "paciente": "Francisco de Assis Moreira",
     "id_part": "FLA01NAT01-138",
     "estudo": "FLA-01-IB",
@@ -2617,7 +2649,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 90,
+    "prioridade": 91,
     "paciente": "Irivan Batista da Silva",
     "id_part": "FLA01NAT01-157",
     "estudo": "FLA-01-IB",
@@ -2629,7 +2661,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 91,
+    "prioridade": 92,
     "paciente": "Jose Dias de Oliveira Sobrinho",
     "id_part": "FLA01NAT01-156",
     "estudo": "FLA-01-IB",
@@ -2641,7 +2673,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 92,
+    "prioridade": 93,
     "paciente": "Jusinete Xavier da Cunha",
     "id_part": "FLA01NAT01-201",
     "estudo": "FLA-01-IB",
@@ -2653,7 +2685,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 93,
+    "prioridade": 94,
     "paciente": "Solange Miranda Campos",
     "id_part": "FLA01NAT01-346",
     "estudo": "FLA-01-IB",
@@ -2665,7 +2697,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 94,
+    "prioridade": 95,
     "paciente": "Solange Miranda Campos",
     "id_part": "FLA01NAT01-346",
     "estudo": "FLA-01-IB",
@@ -2677,7 +2709,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 95,
+    "prioridade": 96,
     "paciente": "Marlene Oliveira da Costa",
     "id_part": "FLA01NAT01-361",
     "estudo": "FLA-01-IB",
@@ -2689,7 +2721,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 96,
+    "prioridade": 97,
     "paciente": "Adelvina Cristina da Silva Amancio",
     "id_part": "FLA01NAT01-367",
     "estudo": "FLA-01-IB",
@@ -2701,7 +2733,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 97,
+    "prioridade": 98,
     "paciente": "Walter Ferreira da Silva",
     "id_part": "FLA01NAT01-366",
     "estudo": "FLA-01-IB",
@@ -2713,7 +2745,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 98,
+    "prioridade": 99,
     "paciente": "Marta Ananias da Costa",
     "id_part": "FLA01NAT01-369",
     "estudo": "FLA-01-IB",
@@ -2725,7 +2757,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 99,
+    "prioridade": 100,
     "paciente": "Francisco Caninde Coelho do Nascimento",
     "id_part": "FLA01NAT01-349",
     "estudo": "FLA-01-IB",
@@ -2737,7 +2769,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 100,
+    "prioridade": 101,
     "paciente": "Solange Miranda Campos",
     "id_part": "FLA01NAT01-346",
     "estudo": "FLA-01-IB",
@@ -2749,7 +2781,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 101,
+    "prioridade": 102,
     "paciente": "Francisca Caninde Brito Pegado",
     "id_part": "FLA01NAT01-396",
     "estudo": "FLA-01-IB",
@@ -2761,7 +2793,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 102,
+    "prioridade": 103,
     "paciente": "João Maria de Brito E Silva",
     "id_part": "FLA01NAT01-425",
     "estudo": "FLA-01-IB",
@@ -2773,7 +2805,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 103,
+    "prioridade": 104,
     "paciente": "Luzania Freitas Neri",
     "id_part": "FLA01NAT01-407",
     "estudo": "FLA-01-IB",
@@ -2785,7 +2817,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 104,
+    "prioridade": 105,
     "paciente": "Carlos Jose de Franca",
     "id_part": "FLA01NAT01-466",
     "estudo": "FLA-01-IB",
@@ -2797,7 +2829,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 105,
+    "prioridade": 106,
     "paciente": "Nazarene Ferreira da Silva",
     "id_part": "FLA01NAT01-468",
     "estudo": "FLA-01-IB",
@@ -2809,7 +2841,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 106,
+    "prioridade": 107,
     "paciente": "Elza Maria Pereira",
     "id_part": "FLA01NAT01-467",
     "estudo": "FLA-01-IB",
@@ -2821,7 +2853,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 107,
+    "prioridade": 108,
     "paciente": "Jose Luis Patucci",
     "id_part": "FLA01NAT01-458",
     "estudo": "FLA-01-IB",
@@ -2833,7 +2865,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 108,
+    "prioridade": 109,
     "paciente": "Naura Maria Maciel",
     "id_part": "24414023345",
     "estudo": "OCEAN(a)",
@@ -2845,7 +2877,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 109,
+    "prioridade": 110,
     "paciente": "Paulo Roberto de Matos Novais",
     "id_part": "E0725661",
     "estudo": "PREVENT",
@@ -2857,7 +2889,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 110,
+    "prioridade": 111,
     "paciente": "Damiana Maria de Araujo",
     "id_part": "FLA01NAT01-506",
     "estudo": "FLA-01-IB",
@@ -2869,7 +2901,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 111,
+    "prioridade": 112,
     "paciente": "Maria do Socorro Ferreira dos Santos",
     "id_part": "FLA01NAT01-517",
     "estudo": "FLA-01-IB",
@@ -2881,7 +2913,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 112,
+    "prioridade": 113,
     "paciente": "Adelmira Oliviera Cabral",
     "id_part": "FLA01NAT01-526",
     "estudo": "FLA-01-IB",
@@ -2893,7 +2925,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 113,
+    "prioridade": 114,
     "paciente": "Francisco de Assis Varela da Silva",
     "id_part": "FLA01NAT01-30",
     "estudo": "FLA-01-IB",
@@ -2905,7 +2937,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 114,
+    "prioridade": 115,
     "paciente": "Francisco Souza de Oliveira",
     "id_part": "FLA01NAT01-188",
     "estudo": "FLA-01-IB",
@@ -2917,7 +2949,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 115,
+    "prioridade": 116,
     "paciente": "Josebias Vitorino dos Santos",
     "id_part": "FLA01NAT01-191",
     "estudo": "FLA-01-IB",
@@ -2929,7 +2961,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 116,
+    "prioridade": 117,
     "paciente": "Marilene de Araújo Henrique",
     "id_part": "FLA01NAT01-568",
     "estudo": "FLA-01-IB",
@@ -2941,7 +2973,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 117,
+    "prioridade": 118,
     "paciente": "Edilma Maria de Franca",
     "id_part": "FLA01NAT01-569",
     "estudo": "FLA-01-IB",
@@ -2953,7 +2985,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 118,
+    "prioridade": 119,
     "paciente": "Iracilda Anacleto Alves",
     "id_part": " FLA01NAT01-566",
     "estudo": "FLA-01-IB",
@@ -2965,7 +2997,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 119,
+    "prioridade": 120,
     "paciente": "João Maria Barros",
     "id_part": "FLA01NAT01-271",
     "estudo": "FLA-01-IB",
@@ -2977,7 +3009,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 120,
+    "prioridade": 121,
     "paciente": "Valdair Lourdes dos Santos",
     "id_part": "FLA01NAT01-302",
     "estudo": "FLA-01-IB",
@@ -2989,7 +3021,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 121,
+    "prioridade": 122,
     "paciente": "Gervasio Andre Dantas da Silva",
     "id_part": "FLA01NAT01-598",
     "estudo": "FLA-01-IB",
@@ -3001,7 +3033,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 122,
+    "prioridade": 123,
     "paciente": "Geraldo Bernardo da Silva",
     "id_part": "FLA01NAT01-327",
     "estudo": "FLA-01-IB",
@@ -3013,7 +3045,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 123,
+    "prioridade": 124,
     "paciente": "Edileuza Antonio de Oliveira",
     "id_part": "FLA01NAT01-372",
     "estudo": "FLA-01-IB",
@@ -3025,7 +3057,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 124,
+    "prioridade": 125,
     "paciente": "Simone Abreu da Fonseca",
     "id_part": " FLA01NAT01-615",
     "estudo": "FLA-01-IB",
@@ -3037,7 +3069,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 125,
+    "prioridade": 126,
     "paciente": "Sileide Atanazio dos Santos",
     "id_part": "FLA01NAT01-623",
     "estudo": "FLA-01-IB",
@@ -3049,7 +3081,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 126,
+    "prioridade": 127,
     "paciente": "Maria Jose do Nascimento",
     "id_part": "FLA01NAT01-380",
     "estudo": "FLA-01-IB",
@@ -3061,7 +3093,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 127,
+    "prioridade": 128,
     "paciente": "Rita Goncalves de Oliveira Martins",
     "id_part": "FLA01NAT01-470",
     "estudo": "FLA-01-IB",
@@ -3073,7 +3105,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 128,
+    "prioridade": 129,
     "paciente": "Eunice Maria Martins de Lima",
     "id_part": "FLA01NAT01-469",
     "estudo": "FLA-01-IB",
@@ -3085,7 +3117,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 129,
+    "prioridade": 130,
     "paciente": "Veronica do Socorro Rabelo Torres da Silva",
     "id_part": "FLA01NAT01-476",
     "estudo": "FLA-01-IB",
@@ -3097,7 +3129,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 130,
+    "prioridade": 131,
     "paciente": "Gilberto de Lima Alves",
     "id_part": "FLA01NAT01-520",
     "estudo": "FLA-01-IB",
@@ -3109,7 +3141,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 131,
+    "prioridade": 132,
     "paciente": "Marluce Nascimento de Lima",
     "id_part": "FLA01NAT01-528",
     "estudo": "FLA-01-IB",
@@ -3121,7 +3153,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 132,
+    "prioridade": 133,
     "paciente": "Angela Lucia Freitas de Araujo",
     "id_part": "FLA01NAT01-536",
     "estudo": "FLA-01-IB",
@@ -3133,7 +3165,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 133,
+    "prioridade": 134,
     "paciente": "Sarah Rebecca Rodrigues Guerra",
     "id_part": "(03/21)020214",
     "estudo": "RESPIRE",
@@ -3145,7 +3177,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 134,
+    "prioridade": 135,
     "paciente": "Andre de Lima Fernandes",
     "id_part": "                         ",
     "estudo": "ZENITH",
@@ -3157,7 +3189,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 135,
+    "prioridade": 136,
     "paciente": "Fabio de Oliveira Costa",
     "id_part": "                         ",
     "estudo": "ZENITH",
@@ -3169,7 +3201,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 136,
+    "prioridade": 137,
     "paciente": "Maria das Vitorias Araujo",
     "id_part": "                         ",
     "estudo": "ZENITH",
@@ -3181,7 +3213,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 137,
+    "prioridade": 138,
     "paciente": "Francisca Sheyle Barbosa de Paiva",
     "id_part": "FLA01NAT01-586",
     "estudo": "FLA-01-IB",
@@ -3193,7 +3225,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 138,
+    "prioridade": 139,
     "paciente": "Jarcirlene Freire dos Santos",
     "id_part": "FLA01NAT01-581",
     "estudo": "FLA-01-IB",
@@ -3205,7 +3237,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 139,
+    "prioridade": 140,
     "paciente": "Maria de Lourdes Melo Lisboa",
     "id_part": "FLA01NAT01-583",
     "estudo": "FLA-01-IB",
@@ -3217,7 +3249,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 140,
+    "prioridade": 141,
     "paciente": "Josias Santos de Gois",
     "id_part": "FLA01NAT01-585",
     "estudo": "FLA-01-IB",
@@ -3229,7 +3261,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 141,
+    "prioridade": 142,
     "paciente": "Edilza Guedes Lourenco",
     "id_part": "(03/21)020219",
     "estudo": "RESPIRE",
@@ -3241,7 +3273,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 142,
+    "prioridade": 143,
     "paciente": "Sebastiao Chaves de Oliveira",
     "id_part": "FLA01NAT01-162",
     "estudo": "FLA-01-IB",
@@ -3253,7 +3285,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 143,
+    "prioridade": 144,
     "paciente": "Sebastiao Izidro Rosa",
     "id_part": "FLA01NAT01-160",
     "estudo": "FLA-01-IB",
@@ -3265,7 +3297,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 144,
+    "prioridade": 145,
     "paciente": "Maria de Lourdes Souza de Paiva",
     "id_part": "FLA01NAT01-159",
     "estudo": "FLA-01-IB",
@@ -3277,7 +3309,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 145,
+    "prioridade": 146,
     "paciente": "Edivaldo Fernandes de Oliveira",
     "id_part": "FLA01NAT01-158",
     "estudo": "FLA-01-IB",
@@ -3289,7 +3321,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 146,
+    "prioridade": 147,
     "paciente": "Maria Helena Botelho de Barros",
     "id_part": "FLA01NAT01-163",
     "estudo": "FLA-01-IB",
@@ -3301,7 +3333,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 147,
+    "prioridade": 148,
     "paciente": "Gustavo Cesar Barbalho Coutinho",
     "id_part": "FLA01NAT01-168",
     "estudo": "FLA-01-IB",
@@ -3313,7 +3345,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 148,
+    "prioridade": 149,
     "paciente": "Clenia Maria de Souza Torres",
     "id_part": "FLA01NAT01-167",
     "estudo": "FLA-01-IB",
@@ -3325,7 +3357,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 149,
+    "prioridade": 150,
     "paciente": "Ivan Siqueira Galvao",
     "id_part": "FLA01NAT01-164",
     "estudo": "FLA-01-IB",
@@ -3337,7 +3369,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 150,
+    "prioridade": 151,
     "paciente": "Maria das Gracas Rufino de Morais",
     "id_part": "FLA01NAT01-176",
     "estudo": "FLA-01-IB",
@@ -3349,7 +3381,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 151,
+    "prioridade": 152,
     "paciente": "Maria da Conceicao de Melo",
     "id_part": "FLA01NAT01-178",
     "estudo": "FLA-01-IB",
@@ -3361,7 +3393,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 152,
+    "prioridade": 153,
     "paciente": "Tania Pereira de Sousa",
     "id_part": "30040032",
     "estudo": "EVOLVE-MI",
@@ -3373,7 +3405,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 153,
+    "prioridade": 154,
     "paciente": "Jose Wilson Gomes",
     "id_part": "FLA01NAT01-79",
     "estudo": "FLA-01-IB",
@@ -3385,7 +3417,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 154,
+    "prioridade": 155,
     "paciente": "Maria Lila Cavalcante Matias",
     "id_part": "FLA01NAT01-238",
     "estudo": "FLA-01-IB",
@@ -3397,7 +3429,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 155,
+    "prioridade": 156,
     "paciente": "Maria das Gracas Silva",
     "id_part": "FLA01NAT01-239",
     "estudo": "FLA-01-IB",
@@ -3409,7 +3441,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 156,
+    "prioridade": 157,
     "paciente": "Joana D Arc de Barros",
     "id_part": "FLA01NAT01-240",
     "estudo": "FLA-01-IB",
@@ -3421,7 +3453,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 157,
+    "prioridade": 158,
     "paciente": "Maria das Gracas Pereira de Araujo",
     "id_part": "E0720522",
     "estudo": "PACIFIC",
@@ -3433,7 +3465,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 158,
+    "prioridade": 159,
     "paciente": "Luiz Antonio Galvao",
     "id_part": "FLA01NAT01-338",
     "estudo": "FLA-01-IB",
@@ -3445,7 +3477,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 159,
+    "prioridade": 160,
     "paciente": "Maria Nalva de Oliveira Silva",
     "id_part": "FLA01NAT01-340",
     "estudo": "FLA-01-IB",
@@ -3457,7 +3489,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 160,
+    "prioridade": 161,
     "paciente": "Rosilma Terezinha de Souza",
     "id_part": "FLA01NAT01-659",
     "estudo": "FLA-01-IB",
@@ -3469,7 +3501,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 161,
+    "prioridade": 162,
     "paciente": "Marcos Carvalho da Silva",
     "id_part": "FLA01NAT01-660",
     "estudo": "FLA-01-IB",
@@ -3481,7 +3513,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 162,
+    "prioridade": 163,
     "paciente": "Maria de Lourdes de Paula",
     "id_part": "FLA01NAT01-441",
     "estudo": "FLA-01-IB",
@@ -3493,7 +3525,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 163,
+    "prioridade": 164,
     "paciente": "Napoleão Ferreira de Souza",
     "id_part": "FLA01NAT01-442",
     "estudo": "FLA-01-IB",
@@ -3505,7 +3537,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 164,
+    "prioridade": 165,
     "paciente": "Maria das Dores Queiroz de Souza",
     "id_part": "FLA01NAT01-443",
     "estudo": "FLA-01-IB",
@@ -3517,7 +3549,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 165,
+    "prioridade": 166,
     "paciente": "Ana Maria Chagas Ferreira",
     "id_part": "FLA01NAT01-440",
     "estudo": "FLA-01-IB",
@@ -3529,7 +3561,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 166,
+    "prioridade": 167,
     "paciente": "Elza Maria Pereira",
     "id_part": "FLA01NAT01-467",
     "estudo": "FLA-01-IB",
@@ -3541,7 +3573,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 167,
+    "prioridade": 168,
     "paciente": "Marlene Sena de Oliveira",
     "id_part": "24414023558",
     "estudo": "OCEAN(a)",
@@ -3553,7 +3585,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 168,
+    "prioridade": 169,
     "paciente": "Maria de Fátima da Costa",
     "id_part": "BR0042-0062",
     "estudo": "ZENITH",
@@ -3565,7 +3597,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 169,
+    "prioridade": 170,
     "paciente": "Isaias Dionisio da Silva",
     "id_part": "FLA01NAT01-502",
     "estudo": "FLA-01-IB",
@@ -3577,23 +3609,11 @@
     "atrasado": false
    },
    {
-    "prioridade": 170,
-    "paciente": "Francisca Maria da Silva",
-    "id_part": "537855",
-    "estudo": "EKBG (MOVE-Lp(a))",
-    "procedimento": "Aplicação TCLE",
-    "data_tasy": "08/09/2026",
-    "data_polo": "09/09/2026",
-    "dias_dif": 1,
-    "horas_uteis": 24,
-    "atrasado": false
-   },
-   {
     "prioridade": 171,
     "paciente": "Francisca Maria da Silva",
     "id_part": "537855",
     "estudo": "EKBG (MOVE-Lp(a))",
-    "procedimento": "Consulta Médica",
+    "procedimento": "Aplicação TCLE",
     "data_tasy": "08/09/2026",
     "data_polo": "09/09/2026",
     "dias_dif": 1,
@@ -3602,10 +3622,10 @@
    },
    {
     "prioridade": 172,
-    "paciente": "João Maria de Souza Coelho",
-    "id_part": "537886",
+    "paciente": "Francisca Maria da Silva",
+    "id_part": "537855",
     "estudo": "EKBG (MOVE-Lp(a))",
-    "procedimento": "Aplicação TCLE",
+    "procedimento": "Consulta Médica",
     "data_tasy": "08/09/2026",
     "data_polo": "09/09/2026",
     "dias_dif": 1,
@@ -3617,18 +3637,6 @@
     "paciente": "João Maria de Souza Coelho",
     "id_part": "537886",
     "estudo": "EKBG (MOVE-Lp(a))",
-    "procedimento": "Consulta Médica",
-    "data_tasy": "08/09/2026",
-    "data_polo": "09/09/2026",
-    "dias_dif": 1,
-    "horas_uteis": 24,
-    "atrasado": false
-   },
-   {
-    "prioridade": 174,
-    "paciente": "Sueli Xavier Gomes",
-    "id_part": "537932",
-    "estudo": "EKBG (MOVE-Lp(a))",
     "procedimento": "Aplicação TCLE",
     "data_tasy": "08/09/2026",
     "data_polo": "09/09/2026",
@@ -3637,9 +3645,21 @@
     "atrasado": false
    },
    {
+    "prioridade": 174,
+    "paciente": "João Maria de Souza Coelho",
+    "id_part": "537886",
+    "estudo": "EKBG (MOVE-Lp(a))",
+    "procedimento": "Consulta Médica",
+    "data_tasy": "08/09/2026",
+    "data_polo": "09/09/2026",
+    "dias_dif": 1,
+    "horas_uteis": 24,
+    "atrasado": false
+   },
+   {
     "prioridade": 175,
-    "paciente": "Danyele Cristina Marreiros da Silva",
-    "id_part": "537936",
+    "paciente": "Sueli Xavier Gomes",
+    "id_part": "537932",
     "estudo": "EKBG (MOVE-Lp(a))",
     "procedimento": "Aplicação TCLE",
     "data_tasy": "08/09/2026",
@@ -3650,6 +3670,18 @@
    },
    {
     "prioridade": 176,
+    "paciente": "Danyele Cristina Marreiros da Silva",
+    "id_part": "537936",
+    "estudo": "EKBG (MOVE-Lp(a))",
+    "procedimento": "Aplicação TCLE",
+    "data_tasy": "08/09/2026",
+    "data_polo": "09/09/2026",
+    "dias_dif": 1,
+    "horas_uteis": 24,
+    "atrasado": false
+   },
+   {
+    "prioridade": 177,
     "paciente": "Sueli Xavier Gomes",
     "id_part": "537932",
     "estudo": "EKBG (MOVE-Lp(a))",
@@ -3661,7 +3693,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 177,
+    "prioridade": 178,
     "paciente": "Danyele Cristina Marreiros da Silva",
     "id_part": "537936",
     "estudo": "EKBG (MOVE-Lp(a))",
@@ -3673,7 +3705,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 178,
+    "prioridade": 179,
     "paciente": "Zelia Maria de Souza Martins",
     "id_part": "FLA01NAT01-576",
     "estudo": "FLA-01-IB",
@@ -3685,7 +3717,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 179,
+    "prioridade": 180,
     "paciente": "Suely de Carvalho Santana",
     "id_part": "FLA01NAT01-578",
     "estudo": "FLA-01-IB",
@@ -3697,22 +3729,10 @@
     "atrasado": false
    },
    {
-    "prioridade": 180,
+    "prioridade": 181,
     "paciente": "Herculano de Souza",
     "id_part": "07600035-1003",
     "estudo": "CSL-300",
-    "procedimento": "Aplicação TCLE",
-    "data_tasy": "08/09/2026",
-    "data_polo": "09/09/2026",
-    "dias_dif": 1,
-    "horas_uteis": 24,
-    "atrasado": false
-   },
-   {
-    "prioridade": 181,
-    "paciente": "Leandra Costa da Silva",
-    "id_part": "(03/21)020258",
-    "estudo": "RESPIRE",
     "procedimento": "Aplicação TCLE",
     "data_tasy": "08/09/2026",
     "data_polo": "09/09/2026",
@@ -3722,6 +3742,18 @@
    },
    {
     "prioridade": 182,
+    "paciente": "Leandra Costa da Silva",
+    "id_part": "(03/21)020258",
+    "estudo": "RESPIRE",
+    "procedimento": "Aplicação TCLE",
+    "data_tasy": "08/09/2026",
+    "data_polo": "09/09/2026",
+    "dias_dif": 1,
+    "horas_uteis": 24,
+    "atrasado": false
+   },
+   {
+    "prioridade": 183,
     "paciente": "Magnolia Nogueira de Souza Lima",
     "id_part": "1076031030",
     "estudo": "EASI-HF-20",
@@ -3733,7 +3765,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 183,
+    "prioridade": 184,
     "paciente": "Luciana Gomes dos Santos Pegado",
     "id_part": "(03/21)020259",
     "estudo": "RESPIRE",
@@ -3745,7 +3777,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 184,
+    "prioridade": 185,
     "paciente": "Magnolia Nogueira de Souza Lima",
     "id_part": "1076031030",
     "estudo": "EASI-HF-20",
@@ -3757,7 +3789,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 185,
+    "prioridade": 186,
     "paciente": "Leandra Costa da Silva",
     "id_part": "(03/21)020258",
     "estudo": "RESPIRE",
@@ -3769,7 +3801,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 186,
+    "prioridade": 187,
     "paciente": "Herculano de Souza",
     "id_part": "07600035-1003",
     "estudo": "CSL-300",
@@ -3781,7 +3813,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 187,
+    "prioridade": 188,
     "paciente": "Luciana Gomes dos Santos Pegado",
     "id_part": "(03/21)020259",
     "estudo": "RESPIRE",
@@ -3793,7 +3825,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 188,
+    "prioridade": 189,
     "paciente": "Maria das Vitorias Dantas da Silva",
     "id_part": "FLA01NAT01-584",
     "estudo": "FLA-01-IB",
@@ -3805,7 +3837,7 @@
     "atrasado": false
    },
    {
-    "prioridade": 189,
+    "prioridade": 190,
     "paciente": "Edeuza Maria Rodrigues de Melo",
     "id_part": "19614019328",
     "estudo": "MARITIME",
@@ -3817,13 +3849,25 @@
     "atrasado": false
    },
    {
-    "prioridade": 190,
+    "prioridade": 191,
     "paciente": "Leandra Costa da Silva",
     "id_part": "(03/21)020258",
     "estudo": "RESPIRE",
     "procedimento": "Consulta Médica",
     "data_tasy": "14/09/2026",
     "data_polo": "15/09/2026",
+    "dias_dif": 1,
+    "horas_uteis": 24,
+    "atrasado": false
+   },
+   {
+    "prioridade": 192,
+    "paciente": "Rosalba de Assis Menezes do Amaral",
+    "id_part": "                         ",
+    "estudo": "ZENITH",
+    "procedimento": "Aplicação TCLE",
+    "data_tasy": "15/09/2026",
+    "data_polo": "16/09/2026",
     "dias_dif": 1,
     "horas_uteis": 24,
     "atrasado": false
@@ -4159,6 +4203,16 @@
     "executor": "Maria Sanali Moura de Oliveira Paiva"
    },
    {
+    "estudo": "AZURE",
+    "paciente": "Maria da Guia Filgueira Alves",
+    "id_part": "E0728215",
+    "procedimento": "Aplicação TCLE",
+    "visita": "Triagem",
+    "data": "16/09/2026",
+    "avaliador": "Artur Diógenes Pinheiro Paiva",
+    "executor": "Nathália Martins Alves Miranda"
+   },
+   {
     "estudo": "GZMR",
     "paciente": "Ana Maria Mauricio dos Santos",
     "id_part": "10487",
@@ -4199,6 +4253,11 @@
   {
    "data": "2026-09-16",
    "abertas": 76,
+   "taxa": 99.63
+  },
+  {
+   "data": "2026-09-17",
+   "abertas": 77,
    "taxa": 99.63
   }
  ]
