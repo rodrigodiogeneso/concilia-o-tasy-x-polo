@@ -1,6 +1,6 @@
 {
   "gerado_em": "29/09/2026",
-  "gerado_em_hora": "07:57",
+  "gerado_em_hora": "08:01",
   "periodo": "06/01/2026 a 29/09/2026",
   "kpis": {
     "conciliados": 9375,
@@ -25,7 +25,7 @@
       "idade_h": 1704,
       "data": "22/06/2026",
       "paciente": "Elenilson Paulo Santos",
-      "id_part": "",
+      "id_part": null,
       "estudo": "ZENITH",
       "procedimento": "Consulta Médica",
       "visita": "Pré-Triagem ",
@@ -69,7 +69,7 @@
       "idade_h": 72,
       "data": "24/09/2026",
       "paciente": "Valdemir Pedrosa Dantas",
-      "id_part": "",
+      "id_part": null,
       "estudo": "PACIFIC",
       "procedimento": "Consulta Médica",
       "visita": "Run-in",
@@ -103,7 +103,7 @@
       {
         "data": "22/06/2026",
         "paciente": "Elenilson Paulo Santos",
-        "id_part": "                         ",
+        "id_part": null,
         "estudo": "ZENITH",
         "visita": "Pré-Triagem ",
         "procedimento": "Consulta Médica",
@@ -139,7 +139,7 @@
       {
         "data": "24/09/2026",
         "paciente": "Valdemir Pedrosa Dantas",
-        "id_part": "                         ",
+        "id_part": null,
         "estudo": "PACIFIC",
         "visita": "Run-in",
         "procedimento": "Consulta Médica",
@@ -196,7 +196,7 @@
       {
         "data": "28/09/2026",
         "paciente": "Marcelo Pereira de Jesus",
-        "id_part": NaN,
+        "id_part": null,
         "estudo": "ZENITH",
         "visita": "PRÉ-TRIAGEM",
         "procedimento": "Aplicação TCLE",
@@ -1413,7 +1413,7 @@
       {
         "prioridade": 100,
         "paciente": "Fabio de Oliveira Costa",
-        "id_part": "                         ",
+        "id_part": null,
         "estudo": "ZENITH",
         "procedimento": "Aplicação TCLE",
         "data_tasy": "08/07/2026",
@@ -1425,7 +1425,7 @@
       {
         "prioridade": 101,
         "paciente": "Andre de Lima Fernandes",
-        "id_part": "                         ",
+        "id_part": null,
         "estudo": "ZENITH",
         "procedimento": "Aplicação TCLE",
         "data_tasy": "08/07/2026",
@@ -2229,7 +2229,7 @@
       {
         "prioridade": 168,
         "paciente": "Rosalba de Assis Menezes do Amaral",
-        "id_part": "                         ",
+        "id_part": null,
         "estudo": "ZENITH",
         "procedimento": "Aplicação TCLE",
         "data_tasy": "15/09/2026",
@@ -2325,7 +2325,7 @@
       {
         "prioridade": 176,
         "paciente": "Francisca Campelo de Andrade",
-        "id_part": "                         ",
+        "id_part": null,
         "estudo": "ZENITH",
         "procedimento": "Aplicação TCLE",
         "data_tasy": "22/09/2026",
